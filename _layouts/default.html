@@ -2,8 +2,31 @@
 
 <div class="content">
 
-    {{ content }}
 
+
+</div>
+
+<div class="tile is-ancestor">
+    <div class="tile is-vertical is-8">
+        <div class="tile">
+            <div class="tile is-parent is-vertical">
+
+                {{ content }}
+
+            </div>
+        </div>
+    </div>
+    <div class="tile is-parent">
+        <article class="tile is-child notification">
+            <div class="content">
+                <p class="title">Categories</p>
+
+                <div class="content">
+                    {% include sidebar.html %}
+                </div>
+            </div>
+        </article>
+    </div>
 </div>
 
 {% include footer.html %}

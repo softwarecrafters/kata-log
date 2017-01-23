@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Monkey Kata"
-categories: design SOLID
+categories: Bananas Animals Mammals
 ---
 
 # Monkey Kata

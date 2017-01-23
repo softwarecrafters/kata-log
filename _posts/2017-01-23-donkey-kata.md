@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Donkey Kata"
-categories: design SOLID
+categories: Animals Mules
 ---
 
 # Donkey Kata
