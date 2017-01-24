@@ -15,7 +15,7 @@ layout: default
         {% endfor %}
         {{ post.excerpt }}
     </p>
-    <p><a href="{{ post.url }}">Check it out</a></p>
+    <p><a href="{{ post.url | prepend: site.github.url }}">Check it out</a></p>
 </article>
 
 
