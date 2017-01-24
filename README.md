@@ -1,8 +1,8 @@
-# awesome-katas
+# Kata-Log
 
 Resources to facilitate coding katas
 
-Go to [egga.github.io/awesome-katas/](https://egga.github.io/awesome-katas/) to see it in all its glory...
+Go to [egga.github.io/kata-log/](https://egga.github.io/kata-log/) to see it in all its glory...
 
 Todo:
 | Bowling Game        | TDD Cycle: Red, Green, Refactor |
