@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gilded Rose"
-categories: [Legacz Code, Refactoring]
+categories: [Legacy Code, Refactoring]
 ---
 
 # Bowling Game Kata
