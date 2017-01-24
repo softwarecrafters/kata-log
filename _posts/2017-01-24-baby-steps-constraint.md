@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Baby Steps Constraing"
+title:  "Baby Steps Constraint"
 categories: []
 ---
 
