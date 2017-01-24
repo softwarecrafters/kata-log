@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Gilded Rose"
-categories: [Legacy Code, Refactoring]
+categories: [Legacy Code, Refactoring, TDD]
 ---
 
-# Bowling Game Kata
+By Emily Bache: [Get the code](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
-Write a class 'Donkey' that has following methods: ...
+[Requirements](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
