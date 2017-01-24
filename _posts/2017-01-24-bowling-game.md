@@ -4,14 +4,14 @@ title:  "Bowling Game Kata"
 categories: [Single Responsibility, TDD Basics]
 ---
 
-[By Uncle Bob: butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+By Uncle Bob: [butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 
-[Handouts: https://goo.gl/NMDBwg](https://goo.gl/NMDBwg)
+Handouts: [https://goo.gl/NMDBwg](https://goo.gl/NMDBwg)
 
 ## Starting Points
-[github.com/swkBerlin/kata-bootstraps: C++, Elixir, Java, JavaScript, PHP, Python, Ruby, Scala](https://github.com/swkBerlin/kata-bootstraps)
+[github.com/swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) (C++, Elixir, Java, JavaScript, PHP, Python, Ruby, Scala)
 
-[github.com/coreyhaines/coderetreat/tree/master/starting_points: Clojure, CoffeeScript, C++, C#, Erlang, Groovy, Intercal, Java, JavaScript, Lisp, PHP, Ruby, Scala](https://github.com/coreyhaines/coderetreat/tree/master/starting_points)
+[github.com/coreyhaines/coderetreat/tree/master/starting_points](https://github.com/coreyhaines/coderetreat/tree/master/starting_points) (Clojure, CoffeeScript, C++, C#, Erlang, Groovy, Intercal, Java, JavaScript, Lisp, PHP, Ruby, Scala)
 
 ## Bowling Rules
 The game consists of 10 frames as shown to the right. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
@@ -24,10 +24,8 @@ In the tenth frame a player who rolls a spare or strike is allowed to roll the e
 
 ## Requirements
 Write a class named “Game” that has two methods:
-`void roll(int)`
-is called each time the player rolls a ball.  The argument is the number of pins knocked down.
-`int score()`
-returns the total score for that game.
+1. `void roll(int)` is called each time the player rolls a ball.  The argument is the number of pins knocked down.
+2. `int score()` returns the total score for that game.
 
 ## Follow up
 Read this article “Engineer Notebook: An Extreme Programming Episode” by Robert C. Martin, where he describes solving this kata together with Robert S. Koss. Follow along in your editor. Does he do the kata the same way as you would?
