@@ -8,7 +8,7 @@
 <ul>
     {% for post in site.categories[category_name] %}
     <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+        <a href="{{ site.github.url }}{{ post.url }}">{{post.title}}</a>
 
     </li>
     {% endfor %}
