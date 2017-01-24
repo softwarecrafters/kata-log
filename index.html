@@ -3,6 +3,8 @@ title: Awesome Katas
 layout: default
 ---
 
+<h1 class="title is-1">Kata-Log</h1>
+
 {% for post in site.posts %}
 
 <article class="tile is-child box">
@@ -11,7 +13,7 @@ layout: default
         {% for category in post.categories %}
         <span class="tag is-primary">{{ category }}</span>
         {% endfor %}
-
+        {{ post.excerpt }}
     </p>
     <p><a href="{{ post.url }}">Check it out</a></p>
 </article>
