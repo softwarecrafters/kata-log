@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banking Kata"
-categories: []
+categories: [Mocks, Outside-In, Encapsulation, Single Responsibility]
 ---
 
 By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
