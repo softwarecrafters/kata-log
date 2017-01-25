@@ -4,4 +4,5 @@ title:  "Fizz Buzz Kata"
 categories: [Beginner Friendly, TDD]
 ---
 
-[flip chart](https://goo.gl/photos/TXBGWXtrBM67q9eS6)
+<img style="height: 200px" src="{{ site.github.url }}/images/fizz_buzz_kata.jpg">
+
