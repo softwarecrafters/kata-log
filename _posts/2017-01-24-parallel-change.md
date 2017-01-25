@@ -4,4 +4,5 @@ title:  "Parallel Change"
 categories: [Single Responsibility, TDD Basics]
 ---
 
-https://goo.gl/photos/SpeRg5S9pPPKusTV8
+<img style="height: 200px" src="{{ site.github.url }}/images/parallel_change.jpg">
+

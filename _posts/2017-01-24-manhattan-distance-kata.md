@@ -4,4 +4,5 @@ title:  "Manhattan Distance Kata"
 categories: [Encapsulation, TDD, Beginner Friendly]
 ---
 
-[flip chart](https://goo.gl/photos/ySRBkwqPYLF6V1NNA)
+<img style="height: 200px" src="{{ site.github.url }}/images/manhattan_distance.jpg">
+

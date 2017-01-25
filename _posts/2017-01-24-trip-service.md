@@ -4,4 +4,4 @@ title:  "Trip Service Kata"
 categories: []
 ---
 
-[flip chart](https://goo.gl/photos/sRq3Dde9xJRayPTb7)
+<img style="height: 200px" src="{{ site.github.url }}/images/trip_service.jpg">

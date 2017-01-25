@@ -4,4 +4,4 @@ title:  "Roman Numerals"
 categories: []
 ---
 
-https://goo.gl/photos/9utKftCJU3TFchQE9
+<img style="height: 200px" src="{{ site.github.url }}/images/roman_numerals.jpg">

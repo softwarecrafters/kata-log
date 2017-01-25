@@ -4,5 +4,6 @@ title:  "Game of Life"
 categories: [TDD, Encapsulation]
 ---
 
-https://goo.gl/photos/umJd5XNzNj5f8LV86
-https://goo.gl/photos/NAh8KpHsbe8nRdN18
+<img style="height: 200px" src="{{ site.github.url }}/images/game_of_life_graphic.jpg">
+
+<img style="height: 200px" src="{{ site.github.url }}/images/game_of_life_text.jpg">

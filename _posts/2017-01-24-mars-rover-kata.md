@@ -4,4 +4,4 @@ title:  "Mars Rover Kata"
 categories: []
 ---
 
-[flip chart](https://goo.gl/photos/X8Yg79s1unqJBH7h9)
+<img style="height: 200px" src="{{ site.github.url }}/images/mars_rover.jpg">

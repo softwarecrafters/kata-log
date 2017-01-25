@@ -13,9 +13,11 @@ layout: default
         {% for category in post.categories %}
         <span class="tag is-primary">{{ category }}</span>
         {% endfor %}
+
+        <a href="{{ post.url | prepend: site.github.url }}">
         {{ post.excerpt }}
+        </a>
     </p>
-    <p><a href="{{ post.url | prepend: site.github.url }}">Check it out</a></p>
 </article>
 
 
