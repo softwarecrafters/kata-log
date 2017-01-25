@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banking Kata"
-categories: [Mocks, Outside-In, Encapsulation, Single Responsibility]
+categories: [Mocks, Outside-In, Encapsulation, Single Responsibility, Expert]
 ---
 
 <img style="height: 200px" src="{{ site.github.url }}/images/banking_kata.jpg">

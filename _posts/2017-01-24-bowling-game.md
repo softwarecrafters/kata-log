@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bowling Game Kata"
-categories: [Single Responsibility, TDD Basics]
+categories: [Single Responsibility, TDD, Beginner]
 ---
 
 By Uncle Bob: [butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
