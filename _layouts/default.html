@@ -3,14 +3,46 @@
 
 <div class="tile is-ancestor">
     <div class="tile is-vertical is-8">
+
+
         <div class="tile">
             <div class="tile is-parent is-vertical">
 
-                {{ content }}
+
+                <div class="tile">
+                    <div class="tile is-parent is-vertical">
+
+                        {{ content }}
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="tile is-parent">
+
+                    <div class="tile is-child is-vertical notification">
+
+                        <p class="title">All katas</p>
+
+                        {% assign sorted = (site.posts | sort: 'title') %}
+                        {% for post in sorted %}
+
+                        <a href="{{ post.url | prepend: site.github.url }}">
+                            {{ post.title }}
+                        </a>
+
+                        {% endfor %}
+
+                    </div>
 
             </div>
         </div>
+
+
     </div>
+
     <div class="tile is-parent">
         <article class="tile is-child notification">
             <div class="content">
@@ -23,5 +55,6 @@
         </article>
     </div>
 </div>
+
 
 {% include footer.html %}
