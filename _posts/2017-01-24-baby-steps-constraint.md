@@ -4,4 +4,4 @@ title:  "Baby Steps Constraint"
 categories: []
 ---
 
-[flip chart](https://goo.gl/photos/EqU5EyyGqHfrV2UM9)
+<img style="height: 200px" src="{{ site.github.url }}/images/baby_steps.jpg">
