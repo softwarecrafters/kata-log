@@ -4,6 +4,12 @@ title:  "Gilded Rose"
 categories: [Legacy Code, Refactoring, TDD, Beginner]
 ---
 
-By Emily Bache: [Get the code](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+By Emily Bache: [github.com/emilybache/GildedRose-Refactoring-Kata  ](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
-[Requirements](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
+## Get the Code
+
+[github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+
+## Requirements
+
+[github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)

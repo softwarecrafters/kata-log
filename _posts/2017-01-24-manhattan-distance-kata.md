@@ -6,3 +6,4 @@ categories: [Encapsulation, TDD, Beginner]
 
 <img style="height: 200px" src="{{ site.github.url }}/images/manhattan_distance.jpg">
 
+{% include starting_points.md %}

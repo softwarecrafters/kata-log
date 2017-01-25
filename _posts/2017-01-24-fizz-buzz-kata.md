@@ -6,3 +6,4 @@ categories: [Beginner, TDD]
 
 <img style="height: 200px" src="{{ site.github.url }}/images/fizz_buzz_kata.jpg">
 
+{% include starting_points.md %}

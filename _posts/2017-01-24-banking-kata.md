@@ -8,11 +8,7 @@ categories: [Mocks, Outside-In, Encapsulation, Single Responsibility, Expert]
 
 By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
 
-[Handout](https://goo.gl/hNywo5)
-
-## Starting Points
-github.com/swkBerlin/kata-bootstraps (Java, JS, Ruby, Python, Scala)
-github.com/coreyhaines/coderetreat/tree/master/starting_points (9 more languages)
+{% include starting_points.md %}
 
 ## Your Task
 Your bank is tired of its mainframe COBOL accounting software and they hired both of you for a greenfield project in - what a happy coincidence - your favorite programming language!

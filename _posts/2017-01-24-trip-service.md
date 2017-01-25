@@ -5,3 +5,5 @@ categories: [Refactoring, Beginner]
 ---
 
 <img style="height: 200px" src="{{ site.github.url }}/images/trip_service.jpg">
+
+## Get the code https://github.com/sandromancuso/trip-service-kata

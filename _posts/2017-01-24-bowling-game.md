@@ -8,10 +8,7 @@ By Uncle Bob: [butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butu
 
 Handouts: [https://goo.gl/NMDBwg](https://goo.gl/NMDBwg)
 
-## Starting Points
-[github.com/swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) (C++, Elixir, Java, JavaScript, PHP, Python, Ruby, Scala)
-
-[github.com/coreyhaines/coderetreat/tree/master/starting_points](https://github.com/coreyhaines/coderetreat/tree/master/starting_points) (Clojure, CoffeeScript, C++, C#, Erlang, Groovy, Intercal, Java, JavaScript, Lisp, PHP, Ruby, Scala)
+{% include starting_points.md %}
 
 ## Bowling Rules
 The game consists of 10 frames as shown to the right. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
