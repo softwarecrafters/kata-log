@@ -4,9 +4,9 @@ title:  "Banking Kata"
 categories: [Mocks, Outside-In, Encapsulation, Single Responsibility]
 ---
 
-By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
+<img style="height: 200px" src="{{ site.github.url }}/images/banking_kata.jpg">
 
-[flip chart](https://goo.gl/photos/STgm8SzXKmsauzmt7)
+By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
 
 [Handout](https://goo.gl/hNywo5)
 
