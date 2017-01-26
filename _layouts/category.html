@@ -1,0 +1,15 @@
+{% include header.html %}
+<div class="content">
+<h3>{{ page.category_name }}</h3>
+
+
+    {% assign sorted_posts = (site.categories[page.category_name] | sort: 'title') %}
+    {% for post in sorted_posts %}
+
+    {% include post_preview.html post=post %}
+
+
+    {% endfor %}
+
+{% include footer.html %}
+</div>

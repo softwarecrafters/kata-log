@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Score Keeper Kata"
-categories: [TDD, Beginner]
+categories: [TDD, Starter]
 image: score_keeper.jpg 
 ---
 

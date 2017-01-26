@@ -1,19 +1,9 @@
-{% assign categories = "Beginner|Intermediate|Expert" | split: "|" %}
+<h3>Choose Your Level</h3>
 
-{% for category_name in categories %}
-<h3>{{ category_name }}</h3>
-
-<ul>
-
-    {% assign sorted_posts = (site.categories[category_name] | sort: 'title') %}
-    {% for post in sorted_posts %}
-
-    <li>
-        <a href="{{ site.github.url }}{{ post.url }}">{{post.title}}</a>
-    </li>
-
-    {% endfor %}
-
-</ul>
-{% endfor %}
+<a href="{{ site.github.url }}/starter.html">
+    <i class="fa fa-play" aria-hidden="true"></i> Starter2
+</a>
+<a href="{{ site.github.url }}/starter.html">
+    Experienced
+</a>
 

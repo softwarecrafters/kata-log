@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Roman Numerals Kata"
-categories: [TDD, Beginner]
+categories: [TDD, Starter]
 image: roman_numerals.jpg
 ---
 

@@ -1,0 +1,35 @@
+<div class="box">
+    <article class="media">
+        <figure class="media-left">
+            <p class="image is-64x64">
+                <a href="{{ include.post.url | prepend: site.github.url }}">
+                    <img style="height: 64px" src="{{ site.github.url }}/images/{{ include.post.image }}">
+                </a>
+            </p>
+        </figure>
+        <div class="media-content">
+            <div class="content">
+                <p>
+                    <a href="{{ include.post.url | prepend: site.github.url }}">
+                        <strong>{{ post.title }}</strong>
+                    </a>
+                    <br>
+
+                    {% for category in post.categories %}
+                    <span class="tag is-primary">{{ category }}</span>
+                    {% endfor %}
+                    <br>
+
+                    Lorem ipsum dolor sit am
+                </p>
+            </div>
+        </div>
+
+        <div class="media-right">
+            <a href="{{ include.post.url | prepend: site.github.url }}">
+                read more
+            </a>
+
+        </div>
+    </article>
+</div>

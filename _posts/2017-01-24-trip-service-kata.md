@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trip Service Kata"
-categories: [Refactoring, Beginner]
+categories: [Refactoring, Starter]
 image: trip_service.jpg
 ---
 

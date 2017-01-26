@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baby Steps Constraint"
-categories: [TDD, Pair-Programming, Beginner, Constraint]
+categories: [TDD, Pair-Programming, Starter, Constraint]
 image: baby_steps.jpg
 ---
 

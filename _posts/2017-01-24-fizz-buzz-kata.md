@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fizz Buzz Kata"
-categories: [Beginner, TDD]
+categories: [Starter, TDD]
 image: fizz_buzz_kata.jpg
 ---
 

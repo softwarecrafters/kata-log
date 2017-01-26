@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parallel Change Kata"
-categories: [TDD, Refactoring, Beginner]
+categories: [TDD, Refactoring, Starter]
 image: parallel_change.jpg
 ---
 
