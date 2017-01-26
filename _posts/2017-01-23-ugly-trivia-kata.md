@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ugly Trivia Game Kata"
-categories: [Refactoring, Legacy Code, Golden Master, Intermediate]
+categories: [Refactoring, Legacy Code, Golden Master, Experienced]
 image: ugly_trivia.jpg
 ---
 

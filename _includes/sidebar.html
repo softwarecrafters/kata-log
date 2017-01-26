@@ -6,7 +6,23 @@
 
 <br>
 
-<a href="{{ site.github.url }}/starter.html">
+<a href="{{ site.github.url }}/experienced.html">
     Experienced
 </a>
 
+
+<h3>Or Choose a Topic</h3>
+
+{% assign topics = "TDD|Pair-Programming" | split: "|" %}
+
+{% for topic in topics %}
+<a href="{{ site.github.url }}/{{ topic | downcase }}.html">
+    {{ topic }}
+</a><br>
+{% endfor %}
+
+
+<h3>Or Choose a Constraint</h3>
+<a href="{{ site.github.url }}/constraints.html">
+    Constraints
+</a><br>

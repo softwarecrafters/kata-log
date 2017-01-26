@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game of Life Kata"
-categories: [TDD, Encapsulation, Intermediate]
+categories: [TDD, Encapsulation, Experienced]
 image: game_of_life_graphic.jpg
 ---
 
