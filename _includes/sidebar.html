@@ -1,28 +1,35 @@
+<div class="notification is-primary">
+
 <h3>Choose Your Level</h3>
 
-<a href="{{ site.github.url }}/starter.html">
+<a class="tag" href="{{ site.github.url }}/starter.html">
     Starter
 </a>
 
 <br>
 
-<a href="{{ site.github.url }}/experienced.html">
+<a class="tag" href="{{ site.github.url }}/experienced.html">
     Experienced
 </a>
+</div>
 
 
-<h3>Or Choose a Topic</h3>
+<div class="notification is-primary">
+<h3>Choose a Topic</h3>
 
 {% assign topics = "TDD|Pair-Programming" | split: "|" %}
 
 {% for topic in topics %}
-<a href="{{ site.github.url }}/{{ topic | downcase }}.html">
+<a class="tag" href="{{ site.github.url }}/{{ topic | downcase }}.html">
     {{ topic }}
 </a><br>
 {% endfor %}
+</div>
 
 
-<h3>Or Choose a Constraint</h3>
-<a href="{{ site.github.url }}/constraints.html">
+<div class="notification is-primary">
+<h3>Choose a Constraint</h3>
+<a class="tag" href="{{ site.github.url }}/constraints.html">
     Constraints
-</a><br>
+</a>
+</div>
