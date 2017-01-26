@@ -2,9 +2,8 @@
 layout: post
 title:  "Baby Steps Constraint"
 categories: [TDD, Pair-Programming, Beginner, Constraint]
+image: baby_steps.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/baby_steps.jpg">
 
 By Adrian Bolboaca: [blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/](http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/)
 

@@ -2,9 +2,10 @@
 layout: post
 title:  "Trip Service Kata"
 categories: [Refactoring, Beginner]
+image: trip_service.jpg
 ---
 
-<img style="height: 200px" src="{{ site.github.url }}/images/trip_service.jpg">
+<img style="height: 100px" src="{{ site.github.url }}/images/trip_service.jpg">
 
 By Sandro Mancuso: [github.com/sandromancuso/trip-service-kata](https://github.com/sandromancuso/trip-service-kata)
 

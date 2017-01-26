@@ -2,6 +2,7 @@
 layout: post
 title:  "Ugly Trivia Game"
 categories: [Refactoring, Legacy Code, Golden Master, Intermediate]
+image: ugly_trivia.jpg
 ---
 
 By J. B. Rainsberger: [github.com/jbrains/trivia](https://github.com/jbrains/trivia)

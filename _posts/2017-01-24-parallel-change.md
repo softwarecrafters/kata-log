@@ -2,9 +2,8 @@
 layout: post
 title:  "Parallel Change"
 categories: [TDD, Refactoring, Beginner]
+image: parallel_change.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/parallel_change.jpg">
 
 By Pawel Duda: [github.com/unclejamal/parallel-change](https://github.com/unclejamal/parallel-change)
 

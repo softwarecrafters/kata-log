@@ -2,9 +2,8 @@
 layout: post
 title:  "Fizz Buzz Kata"
 categories: [Beginner, TDD]
+image: fizz_buzz_kata.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/fizz_buzz_kata.jpg">
 
 {% include starting_points.md %}
 

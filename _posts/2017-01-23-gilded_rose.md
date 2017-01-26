@@ -2,6 +2,7 @@
 layout: post
 title:  "Gilded Rose"
 categories: [Legacy Code, Refactoring, TDD, Beginner]
+image: gilded_rose.jpg
 ---
 
 By Emily Bache: [github.com/emilybache/GildedRose-Refactoring-Kata  ](https://github.com/emilybache/GildedRose-Refactoring-Kata)

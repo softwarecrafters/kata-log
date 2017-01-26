@@ -2,9 +2,8 @@
 layout: post
 title:  "Mars Rover Kata"
 categories: [TDD, Encapsulation, Intermediate]
+image: mars_rover.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/mars_rover.jpg">
 
 By Victor Farcic: [technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/](https://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/) 
 

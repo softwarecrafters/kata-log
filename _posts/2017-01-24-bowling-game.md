@@ -2,6 +2,7 @@
 layout: post
 title:  "Bowling Game Kata"
 categories: [Single Responsibility, TDD, Beginner]
+image: bowling_game.jpg
 ---
 
 By Uncle Bob: [butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)

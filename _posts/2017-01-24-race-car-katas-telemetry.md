@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Race Car Katas - Telemetry"
-categories: [Single Responsibility, TDD, Beginner]
+categories: [Single Responsibility, Legacy Code, Beginner]
+image: race_car_telemetry.png
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/race_car_telemetry.png">
 
 ## Get the code
 

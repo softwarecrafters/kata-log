@@ -2,9 +2,8 @@
 layout: post
 title:  "Manhattan Distance Kata"
 categories: [Encapsulation, TDD, Beginner]
+image: manhattan_distance.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/manhattan_distance.jpg">
 
 By CodeWars: [codewars.com/kata/manhattan-distance](https://www.codewars.com/kata/manhattan-distance)
 

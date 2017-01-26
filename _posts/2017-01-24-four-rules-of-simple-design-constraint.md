@@ -2,9 +2,8 @@
 layout: post
 title:  "Four Rules of Simple Design Constraint"
 categories: [Constraint, TDD, Beginner]
+image: four_rules_of_simple_design.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/four_rules_of_simple_design.jpg">
 
 By J.B. Rainsberger: [blog.jbrains.ca/permalink/the-four-elements-of-simple-design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
 

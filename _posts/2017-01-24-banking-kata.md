@@ -2,9 +2,8 @@
 layout: post
 title:  "Banking Kata"
 categories: [Mocks, Outside-In, Encapsulation, Single Responsibility, Expert]
+image: banking_kata.jpg
 ---
-
-<img style="height: 200px" src="{{ site.github.url }}/images/banking_kata.jpg">
 
 By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
 
