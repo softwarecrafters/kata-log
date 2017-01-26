@@ -3,7 +3,7 @@
 <h1 class="title is-1">Kata-Log</h1>
 
 <div class="tile is-ancestor">
-    <div class="tile is-vertical is-8">
+    <div class="tile is-vertical is-5">
 
 
         <div class="tile">
@@ -21,24 +21,6 @@
 
             </div>
 
-            <div class="tile is-parent">
-
-                    <div class="tile is-child is-vertical notification">
-
-                        <p class="title">All katas</p>
-
-                        {% assign sorted = (site.posts | sort: 'title') %}
-                        {% for post in sorted %}
-
-                        <a href="{{ post.url | prepend: site.github.url }}">
-                            {{ post.title }}
-                        </a>
-
-                        {% endfor %}
-
-                    </div>
-
-            </div>
         </div>
 
 

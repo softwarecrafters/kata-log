@@ -1,21 +1,19 @@
-{% for category in site.categories %}
+{% assign categories = "Beginner|Intermediate|Expert" | split: "|" %}
 
-
-{% capture category_name %}{{ category | first }}{% endcapture %}
-
+{% for category_name in categories %}
 <h3>{{ category_name }}</h3>
-<a name="{{ category_name | slugize }}"></a>
+
 <ul>
 
     {% assign sorted_posts = (site.categories[category_name] | sort: 'title') %}
-
     {% for post in sorted_posts %}
+
     <li>
         <a href="{{ site.github.url }}{{ post.url }}">{{post.title}}</a>
-
     </li>
+
     {% endfor %}
+
 </ul>
-
-
 {% endfor %}
+
