@@ -2,3 +2,10 @@ body {
     padding: 1em;
     width: 100%;
 }
+
+.flip_chart {
+    max-width: 300px;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
