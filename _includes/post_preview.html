@@ -10,7 +10,7 @@
         <div class="media-content">
             <div class="content">
                 <p>
-                    <a href="{{ include.post.url | prepend: site.github.url }}">
+                    <a class="title is-3" href="{{ include.post.url | prepend: site.github.url }}">
                         <strong>{{ post.title }}</strong>
                     </a>
                     <br>
@@ -23,13 +23,8 @@
                     </span>
                     {% endfor %}
                     <br>
-
-                    <a href="{{ include.post.url | prepend: site.github.url }}">
-                        read more
-                    </a>
                 </p>
             </div>
         </div>
-
     </article>
 </div>

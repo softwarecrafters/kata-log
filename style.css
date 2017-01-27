@@ -10,13 +10,21 @@ body {
     text-align: center;
 }
 
+a:hover {
+    color: #00d1b2;
+}
+
 .tag {
     font-size: 1.0em;
 }
 
+.post_title {
+    font-size: 4em;
+}
+
 .flip_chart {
     max-width: 300px;
-        margin-right: 2em;
+    margin-right: 2em;
     margin-bottom: 1em;
 }
 
