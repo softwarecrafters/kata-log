@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Race Car Katas - Telemetry"
-categories: [Single Responsibility, Legacy Code, Starter]
+categories: [SOLID Principles, Starter]
 image: race_car_telemetry.png
 ---
 

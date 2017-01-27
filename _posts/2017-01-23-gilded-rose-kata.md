@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gilded Rose Kata"
-categories: [Legacy Code, Refactoring, TDD, Starter]
+categories: [Refactoring, TDD, Starter]
 image: gilded_rose.jpg
 ---
 
