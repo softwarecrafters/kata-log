@@ -17,7 +17,7 @@
 <div class="notification is-primary">
     <h2 class="title">Choose a Topic</h2>
 
-    {% assign topics = "TDD|Pair-Programming|Refactoring|Solid Principles|Software-Design|Mocks|Outside-In|Golden Master" | split: "|" %}
+    {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|Solid Principles|Software-Design|Mocks|Outside-In|Golden Master" | split: "|" %}
 
     {% for topic in topics %}
     <a class="tag" href="{{ site.github.url }}/{{ topic | slugify }}.html">
