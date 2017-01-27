@@ -2,7 +2,7 @@
 layout: post
 title:  "Race Car Katas - Leaderboard"
 categories: [SOLID Principles, Refactoring, Experienced]
-image: race_car_leaderboard.png
+image: race_car_leaderboard.jpg
 ---
 
 ## Get the code
