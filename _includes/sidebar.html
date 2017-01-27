@@ -3,15 +3,19 @@
     <h2 class="title">Choose Your Level</h2>
 
 
-    <a class="tag is-half-tile" href="{{ site.github.url }}/starter.html">
-        <i class="fa fa-star-half-o" aria-hidden="true"></i>
-        Starter
-    </a>
+    <div class="tag is-half-tile is-medium">
+        <a class="menu_button" href="{{ site.github.url }}/starter.html">
+            <i class="fa fa-star-half-o" aria-hidden="true"></i>
+            Starter
+        </a>
+    </div>
 
-    <a class="tag is-half-tile" href="{{ site.github.url }}/experienced.html">
-        <i class="fa fa-star" aria-hidden="true"></i>
-        Experienced
-    </a>
+    <div class="tag is-half-tile is-medium">
+        <a class="menu_button" href="{{ site.github.url }}/experienced.html">
+            <i class="fa fa-star" aria-hidden="true"></i>
+            Experienced
+        </a>
+    </div>
 </div>
 
 
@@ -19,27 +23,32 @@
     <h2 class="title">Choose a Topic</h2>
 
 
-        {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|Solid
-        Principles|Software-Design|Mocks|Outside-In|Golden
-        Master" | split: "|" %}
+    {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|Solid
+    Principles|Software-Design|Mocks|Outside-In|Golden
+    Master" | split: "|" %}
 
-        {% for topic in topics %}
-            <a class="tag is-half-tile" href="{{ site.github.url }}/{{ topic | slugify }}.html">
-                {{ topic }}
-            </a>
-        {% endfor %}
-
+    {% for topic in topics %}
+    <div class="tag is-half-tile is-medium">
+        <a class="menu_button" href="{{ site.github.url }}/{{ topic | slugify }}.html">
+            {{ topic }}
+        </a>
     </div>
+    {% endfor %}
+
+</div>
 
 
-    <div class="sidebox is-primary">
-        <h2 class="title">Choose a Constraint</h2>
+<div class="sidebox is-primary">
+    <h2 class="title">Choose a Constraint</h2>
 
-        {% assign sorted_posts = (site.categories["Constraint"] | sort: 'title') %}
-        {% for post in sorted_posts %}
+    {% assign sorted_posts = (site.categories["Constraint"] | sort: 'title') %}
+    {% for post in sorted_posts %}
 
-        <a class="tag is-half-tile" href="{{ post.url | prepend: site.github.url }}">
+    <div class="tag is-half-tile is-medium">
+
+        <a class="menu_button" href="{{ post.url | prepend: site.github.url }}">
             {{ post.title }}
         </a>
-        {% endfor %}
     </div>
+    {% endfor %}
+</div>
