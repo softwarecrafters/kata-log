@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manhattan Distance Kata"
-categories: [Encapsulation, TDD, Starter]
+categories: [Software-Design, TDD, Starter]
 image: manhattan_distance.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bowling Game Kata"
-categories: [Single Responsibility, TDD, Starter]
+categories: [SOLID Principles, TDD, Starter]
 image: bowling_game.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Four Rules of Simple Design Constraint"
+title:  "Simple Design"
 categories: [Constraint, TDD, Starter]
 image: four_rules_of_simple_design.jpg
 ---

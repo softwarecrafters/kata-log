@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banking Kata"
-categories: [Mocks, Outside-In, Encapsulation, Single Responsibility, Experienced]
+categories: [Mocks, Outside-In, Software-Design, SOLID Principles , Experienced]
 image: banking_kata.jpg
 ---
 

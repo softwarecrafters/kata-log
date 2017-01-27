@@ -16,7 +16,11 @@
                     <br>
 
                     {% for category in post.categories %}
-                    <span class="tag is-primary">{{ category }}</span>
+                    <span class="tag is-primary">
+                        <a href="{{ site.github.url }}/{{ category | slugify }}.html">
+                            {{ category }}
+                        </a>
+                    </span>
                     {% endfor %}
                     <br>
 
@@ -27,10 +31,5 @@
             </div>
         </div>
 
-        <div class="media-right">
-            Lorem ipsum dolor sit am
-
-
-        </div>
     </article>
 </div>

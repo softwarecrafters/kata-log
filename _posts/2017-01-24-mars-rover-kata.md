@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mars Rover Kata"
-categories: [TDD, Encapsulation, Experienced]
+categories: [TDD, Software-Design, Experienced]
 image: mars_rover.jpg
 ---
 

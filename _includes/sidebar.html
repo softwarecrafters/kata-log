@@ -1,35 +1,40 @@
 <div class="notification is-primary">
 
-<h3>Choose Your Level</h3>
+    <h2 class="title">Choose Your Level</h2>
 
-<a class="tag" href="{{ site.github.url }}/starter.html">
-    Starter
-</a>
+    <a class="tag" href="{{ site.github.url }}/starter.html">
+        <i class="fa fa-star-half-o" aria-hidden="true"></i>
+        Starter
+    </a>
 
-<br>
-
-<a class="tag" href="{{ site.github.url }}/experienced.html">
-    Experienced
-</a>
+    <a class="tag" href="{{ site.github.url }}/experienced.html">
+        <i class="fa fa-star" aria-hidden="true"></i>
+        Experienced
+    </a>
 </div>
 
 
 <div class="notification is-primary">
-<h3>Choose a Topic</h3>
+    <h2 class="title">Choose a Topic</h2>
 
-{% assign topics = "TDD|Pair-Programming" | split: "|" %}
+    {% assign topics = "TDD|Pair-Programming|Refactoring|Solid Principles|Software-Design|Mocks|Outside-In|Golden Master" | split: "|" %}
 
-{% for topic in topics %}
-<a class="tag" href="{{ site.github.url }}/{{ topic | downcase }}.html">
-    {{ topic }}
-</a><br>
-{% endfor %}
+    {% for topic in topics %}
+    <a class="tag" href="{{ site.github.url }}/{{ topic | slugify }}.html">
+        {{ topic }}
+    </a>
+    {% endfor %}
 </div>
 
 
 <div class="notification is-primary">
-<h3>Choose a Constraint</h3>
-<a class="tag" href="{{ site.github.url }}/constraints.html">
-    Constraints
-</a>
+    <h2 class="title">Choose a Constraint</h2>
+
+    {% assign sorted_posts = (site.categories["Constraint"] | sort: 'title') %}
+    {% for post in sorted_posts %}
+
+    <a class="tag" href="{{ post.url | prepend: site.github.url }}">
+        {{ post.title }}
+    </a>
+    {% endfor %}
 </div>

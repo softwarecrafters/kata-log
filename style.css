@@ -1,15 +1,37 @@
 body {
     padding: 1em;
     width: 100%;
+    background-image: url("images/background.png");
+}
+
+.logo {
+    font-family: 'Ruthie', cursive;
+    font-size: 8rem;
+    text-align: center;
+}
+
+.tag {
+    font-size: 1.0em;
 }
 
 .flip_chart {
     max-width: 300px;
-    float: left;
-    margin-right: 2em;
+        margin-right: 2em;
     margin-bottom: 1em;
 }
 
 .tag {
     margin: 0.2em;
+}
+
+.fa {
+    margin-right: 0.5em;
+}
+
+.is-primary a {
+    color: white;
+}
+
+a.tag {
+    color: black;
 }

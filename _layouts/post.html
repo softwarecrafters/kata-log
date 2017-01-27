@@ -1,34 +1,10 @@
 {% include header.html %}
 
 
-<div class="tile is-ancestor">
-    <div class="tile is-vertical is-8">
-        <div class="tile">
-            <div class="tile is-parent is-vertical">
+<h1 class="title is-2">{{ page.title }}</h1>
+<img class="flip_chart" src="{{ site.github.url }}/images/{{ page.image }}">
 
-                <h1 class="title is-2">{{ page.title }}</h1>
+{{ content }}
 
-
-                <div class="content">
-                <img class="flip_chart" src="{{ site.github.url }}/images/{{ page.image }}">
-                    {{ content }}
-                </div>
-
-
-            </div>
-        </div>
-    </div>
-    <div class="tile is-parent">
-        <article class="tile is-child notification">
-            <div class="content">
-                <p class="title">Categories</p>
-
-                <div class="content">
-                    {% include sidebar.html %}
-                </div>
-            </div>
-        </article>
-    </div>
-</div>
 
 {% include footer.html %}
