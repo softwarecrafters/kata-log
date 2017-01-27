@@ -18,8 +18,8 @@ a:hover {
     font-size: 1.0em;
 }
 
-.post_title {
-    font-size: 4em;
+.main {
+    padding-top: 0.5rem;
 }
 
 .flip_chart {

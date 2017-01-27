@@ -1,10 +1,12 @@
 ---
-title: Kata-Log
+title: All Katas
 layout: index
 ---
 
 
-{% for post in site.posts %}
+{% assign sorted_posts = (site.posts | sort: 'title') %}
+
+{% for post in sorted_posts %}
 
 {% include post_preview.html post=post %}
 
