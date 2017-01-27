@@ -16,13 +16,16 @@
                     <br>
 
                     {% for category in post.categories %}
-                    <span class="tag is-primary">
-                        <a href="{{ site.github.url }}/{{ category | slugify }}.html">
-                            {{ category }}
-                        </a>
-                    </span>
+
+                    <a href="{{ site.github.url }}/{{ category | slugify }}.html">
+                        {{ category }}
+                    </a>
+
+                    {% unless forloop.last %}
+                    |
+                    {% endunless %}
+
                     {% endfor %}
-                    <br>
                 </p>
             </div>
         </div>
