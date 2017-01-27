@@ -19,17 +19,15 @@
         </a>
     </h1>
 
-    <div class="tile is-ancestor">
-        <div class="tile is-vertical is-4">
+    <div class="tile is-ancestor is-parent">
+        <div class="tile is-child is-vertical is-4 is-spaced">
 
-            <div class="tile">
-                <div class="tile is-parent is-vertical">
+            <h1 class="title is-3">All Topics</h1>
 
-                    {% include sidebar.html %}
+            {% include sidebar.html %}
 
-                </div>
-            </div>
         </div>
 
-        <div class="content main">
-            <h1 class="title is-1">{{ page.title }}</h1>
+        <div class="tile is-child is-vertical is-spaced is-centered">
+            <h1 class="title is-3">{{ page.title }}</h1>
+            <div class="content">

@@ -1,8 +1,7 @@
 body {
-    padding: 1em;
-    width: 100%;
     background-image: url("images/background.png");
 }
+
 
 .logo {
     font-family: 'Ruthie', cursive;
@@ -15,17 +14,30 @@ a:hover {
 }
 
 .tag {
-    font-size: 1.0em;
+    font-size: 0.8em;
+    overflow: hidden;
 }
 
-.main {
-    padding-top: 0.5rem;
+.is-spaced {
+    padding: 1rem;
+}
+
+.sidebox {
+    background-color: #00d1b2;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .flip_chart {
     max-width: 300px;
     margin-right: 2em;
     margin-bottom: 1em;
+}
+
+.is-half-tile {
+    width: 47%;
 }
 
 .tag {
