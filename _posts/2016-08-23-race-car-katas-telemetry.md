@@ -7,11 +7,7 @@ image: race_car_telemetry.png
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
 
-Handouts: [goo.gl/f7aGj9](https://goo.gl/f7aGj9)
-
-## Get the code
-
-[On Github](https://github.com/emilybache/Racing-Car-Katas)
+{% include race_car_situation.md %}
 
 
 ## Your Task
@@ -25,3 +21,10 @@ class provided for the exercise fakes the behavior of the real
 `TelemetryClient` class, and can respond with either the diagnostic
 information or a random sequence. The real `TelemetryClient` class would
 connect and communicate with the telemetry server via tcp/ip.
+
+{%
+    include get_the_code.md 
+    url='https://github.com/emilybache/Racing-Car-Katas' 
+    languages='C#, C++, Java, JavaScript, Python, Ruby'
+%}
+

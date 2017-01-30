@@ -6,6 +6,9 @@ image: race_car_leaderboard.jpg
 ---
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
+˚
+{% include race_car_situation.md %}
+
 
 ## Your Task
 
