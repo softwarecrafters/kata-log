@@ -7,11 +7,6 @@ image: parallel_change.jpg
 
 By Pawel Duda: [github.com/unclejamal/parallel-change](https://github.com/unclejamal/parallel-change)
 
-## Get the Code
-
-[github.com/unclejamal/parallel-change](https://github.com/unclejamal/parallel-change)
-
-**This kata can be done using C++, C#, Go, Java, Python or Ruby.** If your favorite language is missing, feel free to create a pull request. Pawel will be happy ;-)
 
 ## Your Task
 
@@ -24,3 +19,10 @@ Tests have already been written.
 ## Rules
 
 The tests must not be red at any time. No compile-errors, no failures.
+
+{%
+    include get_the_code.md 
+    url='https://github.com/unclejamal/parallel-change' 
+    languages='C++, C#, Go, Java, Python, Ruby'
+%}
+

@@ -22,11 +22,11 @@ the logic contained in the `TripService` class.
 * The only exception is if we need to change the code to add unit tests,
   but in this case, **just automated refactorings (via IDE) are allowed**.
 
-
-## Get the code
-
-[On GitHub](https://github.com/sandromancuso/trip-service-kata)
-(This kata can be done using ABAP, C#, C++, Java, JavaScript, Kotlin,
-Objective C PHP, Python, Ruby, Scala or Swift)
+{%
+    include get_the_code.md 
+    url='https://github.com/sandromancuso/trip-service-kata' 
+    languages='ABAP, C#, C++, Java, JavaScript, Kotlin,
+               Objective C PHP, Python, Ruby, Scala, Swift'
+%}
 
 Handout: [goo.gl/TSyKg8](https://goo.gl/TSyKg8)

@@ -27,11 +27,12 @@ Refactor the code to allow for the customer's needs. Remember:
 ** refactoring can only be done in the presence of tests that are
 passing, and after refactoring the tests still pass!**
 
-## Get the Code
 
-[On GitHub](https://github.com/sleepyfox/code-dojo-39)
-
-(This refactoring kata can be done using JavaScript, Ruby, Python or
-Java)
+{%
+    include get_the_code.md 
+    url='https://github.com/sleepyfox/code-dojo-39' 
+    languages='JavaScript, Ruby, Python or
+               Java'
+%}
 
 Handouts: [goo.gl/tcVgyH](https://goo.gl/tcVgyH)
