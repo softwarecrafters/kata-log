@@ -27,4 +27,3 @@ the logic contained in the `TripService` class.
                Objective C PHP, Python, Ruby, Scala, Swift'
 %}
 
-Handout: [goo.gl/TSyKg8](https://goo.gl/TSyKg8)
