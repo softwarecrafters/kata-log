@@ -5,7 +5,7 @@ categories: [TDD, Refactoring, Starter]
 image: parallel_change.jpg
 ---
 
-By Pawel Duda: [github.com/unclejamal/parallel-change](https://github.com/unclejamal/parallel-change)
+{% include credits.md name='Pawel Duda' url='https://github.com/unclejamal/parallel-change' %}
 
 
 ## Your Task

@@ -5,7 +5,7 @@ categories: [Mocks, Outside-In, Software-Design, SOLID Principles , Experienced]
 image: banking_kata.jpg
 ---
 
-By Sandro Mancuso: https://github.com/sandromancuso/Bank-kata
+{% include credits.md name='Sandro Mancuso' url='https://github.com/sandromancuso/Bank-kata' %}
 
 {% include starting_points.md %}
 

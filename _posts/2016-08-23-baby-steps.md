@@ -5,7 +5,9 @@ categories: [TDD, Pair-Programming, Starter, Constraint]
 image: baby_steps.jpg
 ---
 
-By Adrian Bolboaca: [blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/](http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/)
+{% include credits.md name='Adrian Bolboaca' url='http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/' %}
+
+# Rules
 
 1. Setup source control repository.
 2. Setup a timer for 2 minutes interval when you start.

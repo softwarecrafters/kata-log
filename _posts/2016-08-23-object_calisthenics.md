@@ -5,7 +5,7 @@ categories: [Constraint, Software-Design, Experienced]
 image: object_calisthenics.jpg
 ---
 
-By Code Cop Peter Kofler described in [his blog](http://blog.code-cop.org/2014/11/tddaiymi-vs-naked-primitives.html)
+{% include credits.md name='Code Cop Peter Kofler' url='http://blog.code-cop.org/2014/11/tddaiymi-vs-naked-primitives.html' %}
 
 No naked primitives is another nice constraint. All primitive values,
 e.g. booleans, numbers or strings need to be wrapped and must not be

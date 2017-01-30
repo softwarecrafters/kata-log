@@ -5,7 +5,7 @@ categories: [TDD, Software-Design, Experienced]
 image: mars_rover.jpg
 ---
 
-By Victor Farcic: [technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/](https://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/) 
+{% include credits.md name='Victor Farcic' url='https://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/' %}
 
 [Handouts](https://goo.gl/sdktbj)
 

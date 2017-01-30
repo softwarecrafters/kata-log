@@ -5,7 +5,7 @@ categories: [SOLID Principles, TDD, Starter]
 image: bowling_game.jpg
 ---
 
-By Uncle Bob: [butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+{% include credits.md name='Uncle Bob' url='http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata' %}
 
 Handouts: [https://goo.gl/NMDBwg](https://goo.gl/NMDBwg)
 

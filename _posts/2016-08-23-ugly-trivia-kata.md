@@ -5,7 +5,7 @@ categories: [Refactoring, Golden Master, Experienced]
 image: ugly_trivia.jpg
 ---
 
-By J. B. Rainsberger: [github.com/jbrains/trivia](https://github.com/jbrains/trivia)
+{% include credits.md name='J. B. Rainsberger' url='https://github.com/jbrains/trivia' %}
 
 {%
     include get_the_code.md 

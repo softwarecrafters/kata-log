@@ -5,8 +5,8 @@ categories: [Constraint, TDD, Starter]
 image: four_rules_of_simple_design.jpg
 ---
 
-## Credits
-[J.B. Rainsberger](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+
+{% include credits.md name='J.B. Rainsberger' url='http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design' %}
 
 ## Rules
 

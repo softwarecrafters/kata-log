@@ -5,11 +5,7 @@ categories: [SOLID Principles, Refactoring, Experienced]
 image: race_car_leaderboard.jpg
 ---
 
-## Credits
-
-[Emily Bache](https://github.com/emilybache)
-
-
+{% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
 
 ## Your Task
 

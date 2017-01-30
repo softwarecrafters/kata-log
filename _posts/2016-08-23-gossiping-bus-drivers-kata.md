@@ -5,6 +5,9 @@ categories: [Software-Design, TDD, Experienced]
 image: gossiping_bus_drivers.jpg
 ---
 
+
+{% include credits.md name='r/dailyprogrammer' url='https://www.reddit.com/r/dailyprogrammer/comments/4gqm90/20160427_challenge_264_intermediate_gossiping_bus/' %}
+
 Handouts: [goo.gl/Dt8h4f](http://goo.gl/Dt8h4f)
 
 {% include starting_points.md %}
@@ -24,7 +27,6 @@ You will receive all the driver routes. Not all drivers have a route of the same
 ### Example 2:
     2 1 2
     5 2 8
-
 
 
 ## Output Description

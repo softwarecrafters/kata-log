@@ -5,9 +5,8 @@ categories: [Refactoring, Starter, Golden Master]
 image: sing_a_song.jpg
 ---
 
-## Credits
 
-[London Code Dojo](https://github.com/sleepyfox/code-dojo-39)
+{% include credits.md name='London Code Dojo' url='https://github.com/sleepyfox/code-dojo-39' %}
 
 
 ## The “Situation”

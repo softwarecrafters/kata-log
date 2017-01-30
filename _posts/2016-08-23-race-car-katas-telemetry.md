@@ -5,9 +5,7 @@ categories: [SOLID Principles, Refactoring, Starter]
 image: race_car_telemetry.png
 ---
 
-## Credits
-
-[Emily Bache](https://github.com/emilybache)
+{% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
 
 Handouts: [goo.gl/f7aGj9](https://goo.gl/f7aGj9)
 

@@ -5,9 +5,7 @@ categories: [Refactoring, Starter]
 image: trip_service.jpg
 ---
 
-## Credits
-
-[Sandro Mancuso](https://github.com/sandromancuso/trip-service-kata)
+{% include credits.md name='Sandro Mancuso' url='https://github.com/sandromancuso/trip-service-kata' %}
 
 ## Your Task
 

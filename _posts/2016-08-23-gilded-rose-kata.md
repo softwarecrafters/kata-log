@@ -5,7 +5,7 @@ categories: [Refactoring, TDD, Starter]
 image: gilded_rose.jpg
 ---
 
-By Emily Bache: [github.com/emilybache/GildedRose-Refactoring-Kata  ](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+{% include credits.md name='Emily Bache' url='https://github.com/emilybache/GildedRose-Refactoring-Kata' %}
 
 ## Get the Code
 

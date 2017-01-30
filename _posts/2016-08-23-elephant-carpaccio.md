@@ -5,7 +5,7 @@ categories: [Agile, TDD, Starter]
 image: elephant_carpaccio.jpg
 ---
 
-By Alistair Cockburn: [alistair.cockburn.us/Elephant+Carpaccio+Exercise](http://alistair.cockburn.us/Elephant+Carpaccio+Exercise)
+{% include credits.md name='Alistair Cockburn' url='http://alistair.cockburn.us/Elephant+Carpaccio+Exercise' %}
 
 {% include starting_points.md %}
 

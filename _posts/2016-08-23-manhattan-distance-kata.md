@@ -5,7 +5,7 @@ categories: [Software-Design, TDD, Starter]
 image: manhattan_distance.jpg
 ---
 
-By CodeWars: [codewars.com/kata/manhattan-distance](https://www.codewars.com/kata/manhattan-distance)
+{% include credits.md name='CodeWars' url='https://www.codewars.com/kata/manhattan-distance' %}
 
 {% include starting_points.md %}
 
