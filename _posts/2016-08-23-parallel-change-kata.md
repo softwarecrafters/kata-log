@@ -5,7 +5,7 @@ categories: [TDD, Refactoring, Starter]
 image: parallel_change.jpg
 ---
 
-{% include credits.md name='Pawel Duda' url='https://github.com/unclejamal/parallel-change' %}
+{% include credits.md name='Pawel Duda & Carlos Ble' url='https://github.com/unclejamal/parallel-change' %}
 
 
 ## Your Task
