@@ -7,10 +7,6 @@ image: gilded_rose.jpg
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache/GildedRose-Refactoring-Kata' %}
 
-## Get the Code
-
-[github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-
 ## Introduction
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with 
@@ -46,6 +42,7 @@ Pretty simple, right? Well this is where it gets interesting:
 
 We have recently signed a supplier of conjured items. This requires an
 update to our system:
+
 * "Conjured" items degrade in Quality twice as fast as normal items
 
 ## Rules
@@ -62,3 +59,12 @@ above 50, however "Sulfuras" is a legendary item and as such its Quality
 is 80 and it never alters.
 
 (Taken from [the github repo]([github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)) )
+
+
+{%
+    include get_the_code.md 
+    url='https://github.com/emilybache/GildedRose-Refactoring-Kata' 
+    languages='ABAP, C, C++, C#, Dart, Elixir, F#, Go, Groovy, Haskell,
+    Java, JavaScript, Kotlin, Perl, PHP, PLSQL, Python, Ruby, Rust, R,
+    Scala, Smalltalk, Swift'
+%}
