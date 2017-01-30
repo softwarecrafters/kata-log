@@ -23,7 +23,7 @@ No documentation or tests were provided by the previous developer.
 
 ## Your Task
 Refactor the code to allow for the customer's needs. Remember:
-** refactoring can only be done in the presence of tests that are
+**refactoring can only be done in the presence of tests that are
 passing, and after refactoring the tests still pass!**
 
 
@@ -34,4 +34,3 @@ passing, and after refactoring the tests still pass!**
                Java'
 %}
 
-Handouts: [goo.gl/tcVgyH](https://goo.gl/tcVgyH)
