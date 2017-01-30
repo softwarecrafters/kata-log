@@ -7,8 +7,6 @@ image: bowling_game.jpg
 
 {% include credits.md name='Uncle Bob' url='http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata' %}
 
-Handouts: [https://goo.gl/NMDBwg](https://goo.gl/NMDBwg)
-
 ## Bowling Rules
 The game consists of 10 frames. In each frame the player has two
 rolls to knock down 10 pins. The score for the frame is the

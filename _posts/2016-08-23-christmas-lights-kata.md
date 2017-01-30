@@ -5,8 +5,6 @@ categories: [TDD, Software-Design, SOLID Principles, Starter, Outside-In]
 image: xmas_lights.jpg
 ---
 
-Handouts: [goo.gl/onQ9ot](https://goo.gl/onQ9ot)
-
 {% include credits.md name='Advent of Code' url='http://adventofcode.com/2015/day/6' %}
 
 ## Probably a Fire Hazard
