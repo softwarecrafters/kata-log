@@ -2,7 +2,6 @@ body {
     background-image: url("images/background.png");
 }
 
-
 .logo {
     font-family: 'Ruthie', cursive;
     font-size: 8rem;
@@ -55,4 +54,25 @@ a:hover {
 a.menu_button {
     color: black;
     width: 100%;
+}
+
+@media print {
+    a:after {
+        content: " (" attr(href) ") ";
+        font-size: 0.8em;
+        font-weight: normal;
+    }
+
+    #logo:after {
+        content: "";
+    }
+
+
+    #left_column, .flip_chart {
+        display: none;
+    }
+
+    a {
+        color: black;
+    }
 }
