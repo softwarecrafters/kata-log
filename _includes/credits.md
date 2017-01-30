@@ -1,3 +1,3 @@
 ## Credits
 
-By [{{ include.name }}]({{ include.url }})
+Inspired by [{{ include.name }}]({{ include.url }})
