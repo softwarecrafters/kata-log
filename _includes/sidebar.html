@@ -4,14 +4,14 @@
 
 
     <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/starter.html">
+        <a class="menu_button" href="{{ site.github.url }}/starter">
             <i class="fa fa-star-half-o" aria-hidden="true"></i>
             Starter
         </a>
     </div>
 
     <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/experienced.html">
+        <a class="menu_button" href="{{ site.github.url }}/experienced">
             <i class="fa fa-star" aria-hidden="true"></i>
             Experienced
         </a>
@@ -29,7 +29,7 @@
 
     {% for topic in topics %}
     <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/{{ topic | slugify }}.html">
+        <a class="menu_button" href="{{ site.github.url }}/{{ topic | slugify }}">
             {{ topic }}
         </a>
     </div>
