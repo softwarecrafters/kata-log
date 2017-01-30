@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 70s Compiler"
-categories: [Constraint, Agile, Experienced]
+categories: [Constraint, Agile, Experienced, Pair-Programming]
 image: 70s_compiler.jpg
 ---
 

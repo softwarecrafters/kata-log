@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fizz Buzz Kata"
-categories: [Starter, TDD]
+categories: [Starter, TDD, Pair-Programming]
 image: fizz_buzz_kata.jpg
 ---
 

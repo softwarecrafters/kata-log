@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mob Programming"
-categories: [Constraint, Agile, Starter]
+categories: [Constraint, Agile, Starter, Software-Design]
 image: mob_programming.jpg
 ---
 

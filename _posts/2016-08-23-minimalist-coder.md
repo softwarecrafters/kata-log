@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minimalist Coder"
-categories: [Constraint, Agile, TDD, Pair-Programming]
+categories: [Constraint, Agile, TDD, Pair-Programming, Software-Design]
 image: minimalist_coder.jpg
 ---
 

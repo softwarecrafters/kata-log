@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas Lights Kata"
-categories: [TDD, Software-Design, SOLID Principles, Starter]
+categories: [TDD, Software-Design, SOLID Principles, Starter, Outside-In]
 image: xmas_lights.jpg
 ---
 

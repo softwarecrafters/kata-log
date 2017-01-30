@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Score Keeper Kata"
-categories: [TDD, Starter]
+categories: [TDD, Starter, Outside-In, Pair-Programming]
 image: score_keeper.jpg 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trip Service Kata"
-categories: [Refactoring, Starter]
+categories: [Refactoring, Starter, SOLID Principles, Software-Design]
 image: trip_service.jpg
 ---
 

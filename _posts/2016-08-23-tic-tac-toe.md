@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tic Tac Toe"
-categories: [TDD, Starter, Pair_programming]
+categories: [TDD, Starter, Pair_programming, Pair-Programming]
 image: tic_tac_toe.jpg
 ---
 

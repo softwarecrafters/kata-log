@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elephant Carpaccio"
-categories: [Agile, TDD, Starter]
+categories: [Agile, TDD, Starter, Outside-In]
 image: elephant_carpaccio.jpg
 ---
 

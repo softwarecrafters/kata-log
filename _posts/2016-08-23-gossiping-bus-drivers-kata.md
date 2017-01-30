@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gossiping Bus Drivers Kata"
-categories: [Software-Design, TDD, Experienced]
+categories: [Software-Design, TDD, Experienced, Outside-In, SOLID Principles]
 image: gossiping_bus_drivers.jpg
 ---
 

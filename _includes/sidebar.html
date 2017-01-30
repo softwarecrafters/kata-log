@@ -23,9 +23,9 @@
     <h2 class="title">Choose a Topic</h2>
 
 
-    {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|Solid
+    {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|SOLID
     Principles|Software-Design|Mocks|Outside-In|Golden
-    Master" | split: "|" %}
+    Master" | split: "|" | <sort></sort> %}
 
     {% for topic in topics %}
     <div class="tag is-half-tile is-medium">

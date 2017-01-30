@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Race Car Katas - Telemetry"
-categories: [SOLID Principles, Refactoring, Starter]
+categories: [SOLID Principles, Refactoring, Starter, Mocks]
 image: race_car_telemetry.png
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game of Life Kata"
-categories: [TDD, Software-Design, Experienced]
+categories: [TDD, Software-Design, Experienced, Outside-In, SOLID Principles]
 image: game_of_life_graphic.jpg
 ---
 
