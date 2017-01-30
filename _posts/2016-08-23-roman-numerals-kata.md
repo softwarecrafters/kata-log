@@ -23,5 +23,11 @@ to the according String representation.
      100 ➔ C
      500 ➔ D
     1000 ➔ M
+    
+## Hint
+
+This kata lures a lot of people to implement features in the order of
+the numbers. But do not forget that it's sometimes easier to start
+with a general case and add exceptions later.
 
 {% include starting_points.md %}
