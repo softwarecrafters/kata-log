@@ -7,6 +7,8 @@ image: elephant_carpaccio.jpg
 
 {% include credits.md name='Alistair Cockburn' url='http://alistair.cockburn.us/Elephant+Carpaccio+Exercise' %}
 
-{% include starting_points.md %}
+## Facilitation instructions
 
-[Facilitation Instructions](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub)
+Very detailed and helpful: [Facilitation Instructions](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub)
+
+{% include starting_points.md %}
