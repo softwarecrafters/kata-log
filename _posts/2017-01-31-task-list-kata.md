@@ -8,7 +8,7 @@ image: task_list.jpg
 {% include credits.md name='Codurance' url='https://codurance.com/' %}
 
 
-# Task List
+## Task List
 
 This is an example of code obsessed with primitives.
 
@@ -45,7 +45,7 @@ You should try to wrap tests around the behaviour you're refactoring.
 At the beginning, these will mostly be high-level system tests, but you 
 should find yourself writing more unit tests as you proceed.
 
-### Features
+## Features
 
   1. Deadlines
     1. Give each task an optional deadline with the `deadline <ID> <date>` command.
@@ -69,7 +69,7 @@ should find yourself writing more unit tests as you proceed.
 
 
 
-### Considerations and Approaches
+## Considerations and Approaches
 
 Think about *behaviour attraction*. Quite often, you can reduce the 
 amount of behaviour that relies upon primitives from the outside world 
