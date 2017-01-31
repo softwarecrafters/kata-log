@@ -1,8 +1,11 @@
 {% include header.html %}
 
-<img class="flip_chart" src="{{ site.github.url }}/images/{{ page.image }}">
+
+<a href="{{ site.github.url }}/images/{{ page.image }}" class="is-outlined">
+    <img class="flip_chart" src="{{ site.github.url }}/images/{{ page.image }}">
+</a>
+
 
 {{ content }}
-
 
 {% include footer.html %}
