@@ -7,7 +7,7 @@ image: no_primitives.jpg
 
 {% include credits.md name='Code Cop Peter Kofler' url='http://blog.code-cop.org/2014/11/tddaiymi-vs-naked-primitives.html' %}
 
-## Aka No Naked Primitives"
+## Aka "No Naked Primitives"
 
 * All primitive values (e.g. booleans, numbers or strings) need to be
   wrapped and must not be visible at object boundaries.
