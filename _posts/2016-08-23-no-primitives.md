@@ -11,7 +11,7 @@ image: no_primitives.jpg
 
 * All primitive values (e.g. booleans, numbers or strings) need to be
   wrapped and must not be visible at object boundaries.
-* Arrays, all kinds of containers like listsor hash-tables and even
+* Arrays, all kinds of containers like lists or hash-tables and even
   Object (the root class of the language's class hierarchy) are
   considered primitive as well.
 
@@ -30,8 +30,7 @@ operations that do not make sense for a shopping basket. So [containers
 need to be encapsulated](http://wiki.c2.com/?PrimitiveObsession).
 
 While it is exaggerated to wrap all primitives (see
-[Primitive obsession obsession](http://blog.thecodewhisperer.com/permalink/primitive-obsession-obsession/))
-, I have seen too many cases of
+[Primitive obsession obsession](http://blog.thecodewhisperer.com/permalink/primitive-obsession-obsession/)), I have seen too many cases of
 [Primitive Obsessions](http://wiki.c2.com/?PrimitiveObsession)
 that I rather see a few additional
 [value objects](https://sourcemaking.com/refactoring/encapsulate-collection)
