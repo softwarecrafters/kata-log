@@ -5,6 +5,8 @@ categories: [Constraint, Agile, TDD, Pair-Programming]
 image: mute_ping_pong.jpg
 ---
 
+{% include constraint_header.html %}
+
 {% include credits.md name='http://coderetreat.org/' url='http://coderetreat.org/facilitating/activities/ping-pong' %}
 
 ## How to Play

@@ -5,6 +5,8 @@ categories: [Constraint, Agile, Experienced, Pair-Programming]
 image: 70s_compiler.jpg
 ---
 
+{% include constraint_header.html %}
+
 ## Problem
 
 Imagine being in the 70s when comnputing time was very expensive.

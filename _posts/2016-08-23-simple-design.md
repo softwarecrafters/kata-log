@@ -5,6 +5,7 @@ categories: [Constraint, TDD, Starter, Agile, Pair-Programming, Software-Design]
 image: four_rules_of_simple_design.jpg
 ---
 
+{% include constraint_header.html %}
 
 {% include credits.md name='J.B. Rainsberger' url='http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design' %}
 

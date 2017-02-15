@@ -5,6 +5,8 @@ categories: [Constraint, Software-Design, Experienced]
 image: no_primitives.jpg
 ---
 
+{% include constraint_header.html %}
+
 {% include credits.md name='Code Cop Peter Kofler' url='http://blog.code-cop.org/2014/11/tddaiymi-vs-naked-primitives.html' %}
 
 ## Aka "No Naked Primitives"

@@ -5,6 +5,8 @@ categories: [TDD, Pair-Programming, Starter, Constraint, Agile, Software-Design]
 image: baby_steps.jpg
 ---
 
+{% include constraint_header.html %}
+
 {% include credits.md name='Adrian Bolboaca' url='http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/' %}
 
 # Rules

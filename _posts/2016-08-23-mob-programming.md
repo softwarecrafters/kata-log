@@ -5,6 +5,8 @@ categories: [Constraint, Agile, Starter, Software-Design]
 image: mob_programming.jpg
 ---
 
+{% include constraint_header.html %}
+
 {% include credits.md name='mobprogramming.org' url='http://mobprogramming.org/' %}
 
 ## All the brilliant minds... 
