@@ -10,6 +10,16 @@ image: clock_in_kata_cases.png
 # Clock-in kata
 
 Practice writing (tests with) Promises.
+OR Practice writing asynchronous tests, without making them slow.
+In this case there are two async operations combined in different ways
+those operations are the XHR and the GPS retrieval. Each of them
+takes a while. In JavaScript asynchronous
+programming can be done via callbacks, Promises or various async libraries.
+In other languages this might be handled in a different way.
+
+The challenge here is to make the asynchronous code readable and
+to handle all edge cases properly, which might get tricky ones async calls
+get parallelized and return errors.
 
 # What is the task?
 
