@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clock-in Kata"
-categories: [TDD, Asynchronous]
+categories: [TDD, Asynchronous, Promises]
 image: clock_in_kata_cases.png
 ---
 
@@ -19,9 +19,9 @@ asynchronous method, like XHR or fetch (using promises too).
 Implement a `clockIn()` function that returns a promise and works as the diagrams below show.
 
 Or in other words: the "boss" can determine
-1) if only times shall be tracked, without any GPS position recoding (one async action, the XHR) or
-2) GPS can be optionally added to the XHR data to be sent, getting GPS is async too,
-3) require GPS data to be sent with the XHR
+1. if only times shall be tracked, without any GPS position recoding (one async action, the XHR) or
+2. GPS can be optionally added to the XHR data to be sent, getting GPS is async too,
+3. require GPS data to be sent with the XHR
 
 # Where to start?
 
@@ -41,6 +41,10 @@ If you want to get more challenging you can go the next steps like this:
 - write tests that verify the timing of the things happening, e.g.
   that the clock-in call NEVER starts before the gps-retreival had
   finished
+
+For some code feel free to have a look at the [original repo][repo].
+
+[repo]: https://github.com/wolframkriesing/clock-in-kata
 
 # Promise test libraries
 
