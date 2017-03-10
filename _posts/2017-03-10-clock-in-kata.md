@@ -17,8 +17,10 @@ takes a while. In JavaScript asynchronous
 programming can be done via callbacks, Promises or various async libraries.
 In other languages this might be handled in a different way.
 
-The challenge here is to make the asynchronous code readable and
-to handle all edge cases properly, which might get tricky ones async calls
+The challenge here is 
+- to make the asynchronous code readable and
+- NOT use any timeouts, make the tests fast and
+- to handle all edge cases properly, which might get tricky ones async calls
 get parallelized and return errors.
 
 # What is the task?
