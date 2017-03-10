@@ -10,7 +10,7 @@ image: clock_in_kata_cases.png
 # Clock-in kata
 
 Practice writing (tests with) Promises.
-OR Practice writing asynchronous tests, without making them slow.
+Or simply practice writing asynchronous tests, without making them slow.
 In this case there are two async operations combined in different ways
 those operations are the XHR and the GPS retrieval. Each of them
 takes a while. In JavaScript asynchronous
