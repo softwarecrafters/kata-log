@@ -17,7 +17,7 @@ to the according String representation.
        3 ➔ III
        4 ➔ IV
        5 ➔ V
-       9 ➔ V
+       9 ➔ IX
       21 ➔ XXI
       50 ➔ L
      100 ➔ C
