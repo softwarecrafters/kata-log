@@ -58,7 +58,7 @@ Just for clarification, an item can never have its Quality increase
 above 50, however "Sulfuras" is a legendary item and as such its Quality
 is 80 and it never alters.
 
-(Taken from [the github repo]([github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)) )
+(Taken from [the github repo](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt))
 
 
 {%
