@@ -2,7 +2,7 @@
 layout: post
 title:  "BugsZero Kata"
 categories: [Refactoring, Software Design]
-
+image: default.jpg
 ---
 
 {% include credits.md name='Johan Martinsson' url='https://github.com/martinsson' %}
