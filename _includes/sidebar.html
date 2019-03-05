@@ -2,35 +2,27 @@
 
     <h2 class="title">Choose Your Level</h2>
 
-
+    {% assign sorted_levels = site.levels | sort: 'order' %}
+    {% for level in sorted_levels %}
     <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/starter">
-            <i class="fa fa-star-half-o" aria-hidden="true"></i>
-            Starter
+        <a class="menu_button" href="{{ level.url | prepend: site.github.url }}">
+            <i class="fa {{ level.class }}" aria-hidden="true"></i>
+            {{ level.category_name }}
         </a>
     </div>
+    {% endfor %}
 
-    <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/experienced">
-            <i class="fa fa-star" aria-hidden="true"></i>
-            Experienced
-        </a>
-    </div>
 </div>
 
 
 <div class="sidebox is-primary">
     <h2 class="title">Choose a Topic</h2>
 
-
-    {% assign topics = "TDD|Pair-Programming|Refactoring|Agile|SOLID
-    Principles|Software-Design|Mocks|Outside-In|Golden
-    Master|BDD" | split: "|" | <sort></sort> %}
-
-    {% for topic in topics %}
+    {% assign sorted_topics = site.topics | sort: 'category_name' %}
+    {% for topic in sorted_topics %}
     <div class="tag is-half-tile is-medium">
-        <a class="menu_button" href="{{ site.github.url }}/{{ topic | slugify }}">
-            {{ topic }}
+        <a class="menu_button" href="{{ topic.url | prepend: site.github.url }}">
+            {{ topic.category_name }}
         </a>
     </div>
     {% endfor %}
@@ -41,13 +33,13 @@
 <div class="sidebox is-primary">
     <h2 class="title">Choose a Constraint</h2>
 
-    {% assign sorted_posts = (site.categories["Constraint"] | sort: 'title') %}
-    {% for post in sorted_posts %}
+    {% assign sorted_constraints = site.constraints | sort: 'title' %}
+    {% for constraint in sorted_constraints %}
 
     <div class="tag is-half-tile is-medium">
 
-        <a class="menu_button" href="{{ post.url | prepend: site.github.url }}">
-            {{ post.title }}
+        <a class="menu_button" href="{{ constraint.url | prepend: site.github.url }}">
+            {{ constraint.title }}
         </a>
     </div>
     {% endfor %}

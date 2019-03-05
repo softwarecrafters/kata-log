@@ -2,8 +2,8 @@
 
 {{content}}
 
-{% assign sorted_posts = (site.categories[page.category_name] | sort: 'title') %}
-{% for post in sorted_posts %}
+{% assign sorted_katas = site.katas | where_exp:"item","item.categories contains page.category_name" | sort: 'title' %}
+{% for post in sorted_katas %}
 
 {% include post_preview.html post=post %}
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Simple Design"
-categories: [Constraint, TDD, Starter, Agile, Pair-Programming, Software-Design]
 image: four_rules_of_simple_design.jpg
 ---
 

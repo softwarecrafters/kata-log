@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Baby Steps"
-categories: [TDD, Pair-Programming, Starter, Constraint, Agile, Software-Design]
 image: baby_steps.jpg
 ---
 

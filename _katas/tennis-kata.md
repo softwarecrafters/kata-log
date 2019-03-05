@@ -5,9 +5,7 @@ categories: [Refactoring, TDD, Starter, Agile, Pair-Programming]
 image: default.jpg
 ---
 
-## Credits
-
-* Inspired by [Emily Bache](https://github.com/emilybache/Tennis-Refactoring-Kata)
+{% include credits.md name='Emily Bache' url='https://github.com/emilybache/Tennis-Refactoring-Kata' %}
 
 ## Tennis Kata
 
@@ -17,9 +15,11 @@ There are three versions of this refactoring kata, each with their own design sm
 * `TennisGame2`
 * `TennisGame3`
 
-### Get the Rules and Code
-
-[On GitHub](https://github.com/emilybache/Tennis-Refactoring-Kata). This kata is available in ABAP, C++, C#, Go, Groovy, Java, JavaScript, Kotlin, Objective-C, OCaml, Perl, PHP, Python, Ruby, Scala, Swift and TypeScript. If your favorite language is missing, feel free to create a pull request. Be sure Emily will be happy ;-)
+{%
+    include get_the_code.md
+    url='https://github.com/emilybache/Tennis-Refactoring-Kata'
+    languages='ABAP, C++, C#, Go, Groovy, Java, JavaScript, Kotlin, Objective-C, OCaml, Perl, PHP, Python, Ruby, Scala, Swift and TypeScript'
+%}
 
 ## Image credits
 
