@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "No Primitives"
-categories: [Constraint, Software-Design, Experienced]
 image: no_primitives.jpg
 ---
 

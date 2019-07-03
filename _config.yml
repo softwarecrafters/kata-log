@@ -1,1 +1,14 @@
-permalink: /:title
+collections:
+    levels:
+        output: true
+        permalink: /:name
+    constraints:
+        output: true
+        permalink: /:name
+    topics:
+        output: true
+        permalink: /:name
+    katas:
+        output: true
+        permalink: /:name
+        
