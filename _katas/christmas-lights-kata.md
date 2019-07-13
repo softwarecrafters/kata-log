@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Lights Kata"
 categories: [TDD, Software-Design, SOLID Principles, Starter, Outside-In]
-image: xmas_lights.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Advent of Code' url='http://adventofcode.com/2015/day/6' %}
@@ -51,3 +51,7 @@ For example:
 * turn on 0,0 through 0,0 would increase the total brightness by 1.
 * toggle 0,0 through 999,999 would increase the total brightness by
   2000000.
+
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
