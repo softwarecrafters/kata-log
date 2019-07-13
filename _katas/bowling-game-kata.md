@@ -2,7 +2,7 @@
 layout: post
 title:  "Bowling Game Kata"
 categories: [SOLID Principles, TDD, Starter, Outside-In, Software-Design]
-image: bowling_game.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Uncle Bob' url='http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata' %}
@@ -38,3 +38,7 @@ by Robert C. Martin, where he describes solving this kata together with
 Robert S. Koss. Follow along in your editor. Does he do the kata the
 same way as you would?
 [butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt](http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
+
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
