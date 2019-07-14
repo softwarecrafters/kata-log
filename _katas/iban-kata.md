@@ -7,8 +7,6 @@ image: default.jpg
 
 {% include credits.md name='Raimo Radczewski' url='https://github.com/rradczewski/iban-kata' %}
 
-{% include incremental_kata.md %}
-
 ## Zielsetzung
 Schreibe eine Anwendung, die IBAN Nummern validieren kann.
 
