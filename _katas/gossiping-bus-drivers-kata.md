@@ -2,7 +2,7 @@
 layout: post
 title:  "Gossiping Bus Drivers Kata"
 categories: [Software-Design, TDD, Experienced, Outside-In, SOLID Principles]
-image: gossiping_bus_drivers.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='r/dailyprogrammer' url='https://www.reddit.com/r/dailyprogrammer/comments/4gqm90/20160427_challenge_264_intermediate_gossiping_bus/' %}
@@ -32,3 +32,6 @@ Example 1: 5
 Example 2: never
 
 {% include starting_points.md %}
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
