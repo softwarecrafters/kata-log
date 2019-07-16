@@ -2,7 +2,7 @@
 layout: post
 title:  "Task List Kata"
 categories: [TDD, Software-Design, Refactoring, SOLID Principles, Starter]
-image: task_list.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Codurance' url='https://codurance.com/' %}
@@ -106,4 +106,7 @@ Lastly, consider SOLID principles when refactoring:
   * Don't surprise your callers. Conform to the interface.
   * Segregate behaviour based upon the needs.
   * Depend upon abstractions.
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
 
