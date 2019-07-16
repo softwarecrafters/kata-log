@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Network Kata"
 categories: [TDD, BDD, Software-Design, Starter]
-image: social_network.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Sandro Mancuso & Samir Talwar' url='http://monospacedmonologues.com/post/49250842364/the-social-networking-kata' %}
@@ -33,3 +33,6 @@ important features.
 
 
 {% include starting_points.md %}
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
