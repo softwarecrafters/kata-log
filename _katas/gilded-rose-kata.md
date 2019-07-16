@@ -2,7 +2,7 @@
 layout: post
 title:  "Gilded Rose Kata"
 categories: [Refactoring, TDD, Starter, Agile, Pair-Programming]
-image: gilded_rose.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache/GildedRose-Refactoring-Kata' %}
@@ -68,3 +68,6 @@ is 80 and it never alters.
     Java, JavaScript, Kotlin, Perl, PHP, PLSQL, Python, Ruby, Rust, R,
     Scala, Smalltalk, Swift'
 %}
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
