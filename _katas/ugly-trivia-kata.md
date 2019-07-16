@@ -2,7 +2,7 @@
 layout: post
 title:  "Ugly Trivia Game Kata"
 categories: [Refactoring, Golden Master, Experienced, Mocks, Pair-Programming, SOLID Principles, Software-Design]
-image: ugly_trivia.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='J. B. Rainsberger' url='https://github.com/jbrains/trivia' %}
@@ -40,3 +40,5 @@ the results.
     Ruby, Rust, Scala, ShellScript, Smalltalk, Swift, VB6'
 %}
 
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
