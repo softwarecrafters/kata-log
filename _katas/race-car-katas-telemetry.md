@@ -2,7 +2,7 @@
 layout: post
 title:  "Race Car Katas - Telemetry"
 categories: [SOLID Principles, Refactoring, Starter, Mocks]
-image: race_car_telemetry.png
+image: default.png
 ---
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
