@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No Primitives"
-image: no_primitives.jpg
+image: default.jpg
 ---
 
 {% include constraint_header.html %}
@@ -36,3 +36,6 @@ While it is exaggerated to wrap all primitives (see
 that I rather see a few additional
 [value objects](https://sourcemaking.com/refactoring/encapsulate-collection)
 than another map holding maps holding strings.
+
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
