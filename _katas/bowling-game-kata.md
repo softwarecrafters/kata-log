@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bowling Game Kata"
-categories: [SOLID Principles, TDD, Starter, Outside-In, Software-Design]
+categories: [SOLID Principles, TDD, Experienced, Outside-In, Software-Design]
 image: default.jpg
 ---
 
