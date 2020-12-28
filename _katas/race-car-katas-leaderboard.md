@@ -2,7 +2,7 @@
 layout: post
 title:  "Race Car Katas - Leaderboard"
 categories: [SOLID Principles, Refactoring, Experienced]
-image: race_car_leaderboard.jpg
+image: default.jpg
 ---
 
 {% include credits.md name='Emily Bache' url='https://github.com/emilybache' %}
