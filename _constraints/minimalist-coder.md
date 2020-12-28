@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minimalist Coder"
-image: minimalist_coder.jpg
+image: default.jpg
 ---
 
 {% include constraint_header.html %}
