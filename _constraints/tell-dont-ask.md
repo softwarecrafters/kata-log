@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tell! Don't ask!"
-image: tell_dont_ask.jpg
+image: default.jpg
 ---
 
 {% include constraint_header.html %}
@@ -22,3 +22,5 @@ test.
 
 Believe us: you can do it!
 
+## Image credits
+Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
