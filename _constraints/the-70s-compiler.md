@@ -8,7 +8,7 @@ image: default.jpg
 
 ## Problem
 
-Imagine being in the 70s when comnputing time was very expensive.
+Imagine being in the 70s when computing time was very expensive.
 Your team is advised to use the actual computers as less as possible.
 
 ## Rules
