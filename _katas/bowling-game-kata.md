@@ -5,7 +5,7 @@ categories: [SOLID Principles, TDD, Experienced, Outside-In, Software-Design]
 image: default.jpg
 ---
 
-{% include credits.md name='Uncle Bob' url='http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata' %}
+{% include credits.md name='Uncle Bob' url='http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata' %}
 
 ## Bowling Rules
 The game consists of 10 frames. In each frame the player has two
@@ -37,7 +37,7 @@ Read this article “Engineer Notebook: An Extreme Programming Episode”
 by Robert C. Martin, where he describes solving this kata together with
 Robert S. Koss. Follow along in your editor. Does he do the kata the
 same way as you would?
-[butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt](http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
+[butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt](http://www.butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
 
 
 ## Image credits
