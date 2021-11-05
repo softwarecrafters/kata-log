@@ -10,7 +10,7 @@ image: default.jpg
 
 ## Aka "No Naked Primitives"
 
-* All primitive values (e.g. booleans, numbers or strings) need to be
+* All value types, that your programming language provides (e.g. booleans, numbers, strings), need to be
   wrapped and must not be visible at object boundaries.
 * Arrays, all kinds of containers like lists or hash-tables and even
   Object (the root class of the language's class hierarchy) are
