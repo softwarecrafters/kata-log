@@ -39,6 +39,4 @@ roles, but an experienced coder who knows its way through the IDE can
 really enable a small team to do some rapid prototyping. (And maybe the
 driver may ask a question from time to time.)
 
-
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
+{% include default_image_credits.md %}

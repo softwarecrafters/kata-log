@@ -17,5 +17,4 @@ image: default.jpg
 
 The goal is to practice writing tests that drive the implementation into a certain direction. 
 
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata. Please, feel free to use this image in case you want to contribute with a kata, but you don't have another image. It's not necessary to include this credit again.
+{% include default_image_credits.md %}
