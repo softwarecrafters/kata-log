@@ -45,3 +45,5 @@ Pick any of the listed problems
 A few pointers on typical weak design that is bug prone can be [found here](https://github.com/martinsson/BugsZero-Kata)
 
 Go use this on some other code base.
+
+{% include default_image_credits.md %}

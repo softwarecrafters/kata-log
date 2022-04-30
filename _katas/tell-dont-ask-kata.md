@@ -24,3 +24,5 @@ Your new CTO, after many bugs caused by this application, asked you to refactor 
     url='https://github.com/gabrieletondi/tell-dont-ask-kata'
     languages='C#, Java, Ruby, Scala, TypeScript'
 %}
+
+{% include default_image_credits.md %}

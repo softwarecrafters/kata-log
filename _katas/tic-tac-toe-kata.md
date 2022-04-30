@@ -23,5 +23,4 @@ In random order
 
 {% include starting_points.md %}
 
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
+{% include default_image_credits.md %}

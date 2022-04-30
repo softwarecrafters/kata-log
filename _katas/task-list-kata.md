@@ -107,6 +107,4 @@ Lastly, consider SOLID principles when refactoring:
   * Segregate behaviour based upon the needs.
   * Depend upon abstractions.
 
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
-
+{% include default_image_credits.md %}

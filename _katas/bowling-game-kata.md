@@ -39,6 +39,4 @@ Robert S. Koss. Follow along in your editor. Does he do the kata the
 same way as you would?
 [butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt](http://www.butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
 
-
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
+{% include default_image_credits.md %}

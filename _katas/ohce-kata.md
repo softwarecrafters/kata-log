@@ -16,3 +16,5 @@ A short and simple exercise to practice outside-in TDD using test doubles.
 <script src="https://gist.github.com/trikitrok/34ea4433bb88659ec4c557839c83aa26.js"></script>
 
 {% include starting_points.md %}
+
+{% include default_image_credits.md %}

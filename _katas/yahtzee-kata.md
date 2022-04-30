@@ -17,3 +17,5 @@ The game of Yatzy is a simple dice game. A deliberately poor solution is availab
     languages='C++, C#, Clojure, Elixir, Java, JavaScript, Kotlin, Perl, PHP, Python, Ruby,
     Scala, Swift, TypeScript'
 %}
+
+{% include default_image_credits.md %}

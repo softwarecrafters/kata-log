@@ -66,3 +66,5 @@ Allow multiple delimiters like this: `“//[delim1][delim2]\n”` for example `�
 Make sure you can also handle multiple delimiters with length longer than one char.
 
 {% include starting_points.md %}
+
+{% include default_image_credits.md %}

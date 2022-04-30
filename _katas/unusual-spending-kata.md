@@ -39,3 +39,6 @@ More details about the goal, caveats, extra credit or solutions: [Unusual Spendi
 Starter projects: [JavaScript](https://github.com/testdouble/unusual-spending), [Java](https://github.com/testdouble/java-testing-example/tree/master/unusual-spending).
 
 If your favorite language is missing, feel free to create a pull request. Be sure the maintainer will be happy ;-)
+
+
+{% include default_image_credits.md %}

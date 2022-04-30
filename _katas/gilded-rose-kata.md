@@ -70,5 +70,4 @@ is 80 and it never alters.
     Smalltalk, Swift, TypeScript, VB.NET'
 %}
 
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
+{% include default_image_credits.md %}

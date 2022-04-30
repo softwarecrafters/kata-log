@@ -65,6 +65,4 @@ For example:
 * toggle 0,0 through 999,999 would increase the total brightness by
   2000000.
 
-
-## Image credits
-Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
+{% include default_image_credits.md %}
