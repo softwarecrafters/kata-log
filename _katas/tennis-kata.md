@@ -19,7 +19,9 @@ There are four versions of this refactoring kata, each with their own design sme
 {%
     include get_the_code.md
     url='https://github.com/emilybache/Tennis-Refactoring-Kata'
-    languages='ABAP, C++, C#, Go, Groovy, Java, JavaScript, Kotlin, Objective-C, OCaml, Perl, PHP, Python, Ruby, Scala, Swift and TypeScript'
+    languages='ABAP, C, C++, C#, Crystal, Dart, Erlang, Go, Groovy,
+    Java, JavaScript, Julia, Kotlin, Objective-C, OCaml, Perl, PHP,
+    Python, Ruby, Rust, Scala, Swift, TypeScript, VB.NET'
 %}
 
 ## Image credits
