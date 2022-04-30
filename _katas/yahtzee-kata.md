@@ -14,5 +14,6 @@ The game of Yatzy is a simple dice game. A deliberately poor solution is availab
 {%
     include get_the_code.md
     url='https://github.com/emilybache/Yatzy-Refactoring-Kata'
-    languages='C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby, Swift and TypeScript'
+    languages='C++, C#, Clojure, Elixir, Java, JavaScript, Kotlin, Perl, PHP, Python, Ruby,
+    Scala, Swift, TypeScript'
 %}
