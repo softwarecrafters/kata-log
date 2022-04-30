@@ -23,7 +23,8 @@ the logic contained in the `TripService` class.
 {%
     include get_the_code.md 
     url='https://github.com/sandromancuso/trip-service-kata' 
-    languages='ABAP, C#, C++, Java, JavaScript, Kotlin,
-               Objective C PHP, Python, Ruby, Scala, Swift'
+    languages='ABAP, Bash, C#, C++, Java, JavaScript, Kotlin,
+               Objective C, PHP, Python, Ruby, Scala, Swift,
+               TypeScript'
 %}
 
