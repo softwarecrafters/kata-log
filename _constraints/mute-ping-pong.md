@@ -4,9 +4,9 @@ title:  "Mute Ping Pong"
 image: default.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='http://coderetreat.org/' url='http://coderetreat.org/facilitating/activities/ping-pong' %}
+
+{% include constraint_header.html %}
 
 ## How to Play
 

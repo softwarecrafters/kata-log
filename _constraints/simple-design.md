@@ -4,9 +4,9 @@ title:  "Simple Design"
 image: default.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='J.B. Rainsberger' url='http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design' %}
+
+{% include constraint_header.html %}
 
 ## Rules
 

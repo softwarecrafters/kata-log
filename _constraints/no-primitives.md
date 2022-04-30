@@ -4,9 +4,9 @@ title:  "No Primitives"
 image: default.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='Code Cop Peter Kofler' url='http://blog.code-cop.org/2014/11/tddaiymi-vs-naked-primitives.html' %}
+
+{% include constraint_header.html %}
 
 ## Aka "No Naked Primitives"
 

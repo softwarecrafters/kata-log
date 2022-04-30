@@ -4,9 +4,9 @@ title:  "Minimalist Coder"
 image: default.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='Ilke Zilci' url='https://twitter.com/ilkezilci' %}
+
+{% include constraint_header.html %}
 
 ## How to Play
 

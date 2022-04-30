@@ -4,9 +4,9 @@ title:  "Baby Steps"
 image: baby_steps.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='Adrian Bolboaca' url='http://blog.adrianbolboaca.ro/2013/01/the-history-of-taking-baby-steps/' %}
+
+{% include constraint_header.html %}
 
 # Rules
 

@@ -4,9 +4,9 @@ title:  "Mob Programming"
 image: default.jpg
 ---
 
-{% include constraint_header.html %}
-
 {% include credits.md name='mobprogramming.org' url='http://mobprogramming.org/' %}
+
+{% include constraint_header.html %}
 
 ## All the brilliant minds... 
 
