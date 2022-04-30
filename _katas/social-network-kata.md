@@ -7,6 +7,7 @@ image: default.jpg
 
 {% include credits.md name='Sandro Mancuso & Samir Talwar' url='http://monospacedmonologues.com/post/49250842364/the-social-networking-kata' %}
 
+{% include incremental_kata.html %}
 
 ## Your Team
 

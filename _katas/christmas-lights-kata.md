@@ -7,6 +7,8 @@ image: default.jpg
 
 {% include credits.md name='Advent of Code' url='http://adventofcode.com/2015/day/6' %}
 
+{% include incremental_kata.html %}
+
 ## Probably a Fire Hazard
 Because your neighbors keep defeating you in the holiday house
 decorating contest year after year, you've decided to deploy one million

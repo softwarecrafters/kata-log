@@ -7,7 +7,7 @@ image: default.jpg
 
 {% include credits.md name='Roy Osherove' url='http://osherove.com/tdd-kata-1/' %}
 
-{% include incremental_kata.md %}
+{% include incremental_kata.html %}
 
 ## Step 1
 

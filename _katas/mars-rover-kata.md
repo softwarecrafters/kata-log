@@ -7,6 +7,8 @@ image: mars_rover.jpg
 
 {% include credits.md name='Victor Farcic' url='https://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover/' %}
 
+{% include incremental_kata.html %}
+
 ## Your Task
 You’re part of the team that explores Mars by sending remotely controlled vehicles to the surface of the planet. Develop an API that translates the commands sent from earth to instructions that are understood by the rover.
 
