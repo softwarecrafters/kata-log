@@ -22,5 +22,5 @@ Your new CTO, after many bugs caused by this application, asked you to refactor 
 {%
     include get_the_code.md
     url='https://github.com/gabrieletondi/tell-dont-ask-kata'
-    languages='Java'
+    languages='C#, Java, Ruby, Scala, TypeScript'
 %}
