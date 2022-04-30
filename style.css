@@ -61,7 +61,7 @@ a.menu_button {
 }
 
 .box, .sidebox {
-    box-shadow: 0.6em 0.6em 1em;
+    # box-shadow: 0.6em 0.6em 1em;
 }
 @media print {
     a:after {
