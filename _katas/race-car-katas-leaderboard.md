@@ -20,5 +20,5 @@ based on results from a number of races.
 {%
     include get_the_code.md 
     url='https://github.com/emilybache/Racing-Car-Katas' 
-    languages='C#, C++, Java, Python, Ruby, Scala'
+    languages='C, C#, C++, Go, Kotlin, Java, JavaScript, PHP, Python, Ruby, Scala, Swift, TypeScrpt'
 %}
