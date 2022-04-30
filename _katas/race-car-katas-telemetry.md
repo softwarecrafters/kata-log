@@ -25,6 +25,6 @@ connect and communicate with the telemetry server via tcp/ip.
 {%
     include get_the_code.md 
     url='https://github.com/emilybache/Racing-Car-Katas' 
-    languages='C#, C++, Java, JavaScript, Python, Ruby'
+    languages='C, C#, C++, Go, Kotlin, Java, JavaScript, PHP, Python, Ruby, Scala, Swift, TypeScript'
 %}
 
