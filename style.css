@@ -56,6 +56,10 @@ a.menu_button {
     width: 100%;
 }
 
+.box {
+    padding: 0px;
+}
+
 @media print {
     a:after {
         content: " (" attr(href) ") ";
