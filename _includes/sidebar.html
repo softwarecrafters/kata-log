@@ -1,6 +1,7 @@
-<div class="sidebox is-primary">
+<h1 class="title is-3" style="text-align: center"><strong>All Topics</strong></h1>
 
-    <h2 class="title">Choose Your Level</h2>
+<div class="sidebox is-primary">
+    <h2 class="title"><strong>Choose Your Level</strong></h2>
 
     {% assign sorted_levels = site.levels | sort: 'order' %}
     {% for level in sorted_levels %}
@@ -16,7 +17,7 @@
 
 
 <div class="sidebox is-primary">
-    <h2 class="title">Choose a Topic</h2>
+    <h2 class="title"><strong>Choose a Topic</strong></h2>
 
     {% assign sorted_topics = site.topics | sort: 'category_name' %}
     {% for topic in sorted_topics %}
@@ -31,7 +32,7 @@
 
 
 <div class="sidebox is-primary">
-    <h2 class="title">Choose a Constraint</h2>
+    <h2 class="title"><strong>Choose a Constraint</strong></h2>
 
     {% assign sorted_constraints = site.constraints | sort: 'title' %}
     {% for constraint in sorted_constraints %}
