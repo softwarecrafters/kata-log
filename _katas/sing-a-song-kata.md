@@ -30,7 +30,6 @@ passing, and after refactoring the tests still pass!**
 {%
     include get_the_code.md 
     url='https://github.com/sleepyfox/code-dojo-39' 
-    languages='JavaScript, Ruby, Python or
-               Java'
+    languages='C++, C#, Elixir, Go, Java, JavaScript, PHP, Python, Ruby'
 %}
 
