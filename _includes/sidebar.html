@@ -7,8 +7,8 @@
     {% for level in sorted_levels %}
     <div class="tag is-half-tile is-medium">
         <a class="menu_button" href="{{ level.url | prepend: site.github.url }}">
-            <i class="fa {{ level.class }}" aria-hidden="true"></i>
-            {{ level.category_name }}
+            <strong><i class="fa {{ level.class }}" aria-hidden="true"></i>
+            {{ level.category_name }}</strong>
         </a>
     </div>
     {% endfor %}
@@ -23,7 +23,7 @@
     {% for topic in sorted_topics %}
     <div class="tag is-half-tile is-medium">
         <a class="menu_button" href="{{ topic.url | prepend: site.github.url }}">
-            {{ topic.category_name }}
+            <strong>{{ topic.category_name }}</strong>
         </a>
     </div>
     {% endfor %}
@@ -40,7 +40,7 @@
     <div class="tag is-half-tile is-medium">
 
         <a class="menu_button" href="{{ constraint.url | prepend: site.github.url }}">
-            {{ constraint.title }}
+            <strong>{{ constraint.title }}</strong>
         </a>
     </div>
     {% endfor %}
