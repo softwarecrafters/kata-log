@@ -19,3 +19,7 @@ Write a function `int manhattanDistance(Point, Point)` that returns the Manhatta
 * The class `Point` has no public properties (i.e. the internal state cannot be read from outside the class).
 
 {% include starting_points.md %}
+
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.

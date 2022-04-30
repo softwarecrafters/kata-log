@@ -25,3 +25,7 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 * Be careful about edge cases and exceptions. We can not afford to lose a mars rover, just because the developers overlooked a null pointer.
 
 {% include starting_points.md %}
+
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.
