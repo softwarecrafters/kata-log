@@ -26,3 +26,6 @@ The tests must not be red at any time. No compile-errors, no failures.
     languages='C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Swift'
 %}
 
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.

@@ -33,3 +33,6 @@ passing, and after refactoring the tests still pass!**
     languages='C++, C#, Elixir, Go, Java, JavaScript, PHP, Python, Ruby'
 %}
 
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.

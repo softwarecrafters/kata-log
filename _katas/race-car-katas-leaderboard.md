@@ -22,3 +22,5 @@ based on results from a number of races.
     url='https://github.com/emilybache/Racing-Car-Katas' 
     languages='C, C#, C++, Go, Kotlin, Java, JavaScript, PHP, Python, Ruby, Scala, Swift, TypeScrpt'
 %}
+
+{% include default_image_credits.md %}

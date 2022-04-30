@@ -28,3 +28,4 @@ connect and communicate with the telemetry server via tcp/ip.
     languages='C, C#, C++, Go, Kotlin, Java, JavaScript, PHP, Python, Ruby, Scala, Swift, TypeScript'
 %}
 
+{% include default_image_credits.md %}

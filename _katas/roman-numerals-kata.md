@@ -31,3 +31,8 @@ the numbers. But do not forget that it's sometimes easier to start
 with a general case and add exceptions later.
 
 {% include starting_points.md %}
+
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.
+

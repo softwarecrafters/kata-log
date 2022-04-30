@@ -14,3 +14,6 @@ image: fizz_buzz_kata.jpg
 
 {% include starting_points.md %}
 
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.

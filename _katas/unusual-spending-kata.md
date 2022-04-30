@@ -40,5 +40,4 @@ Starter projects: [JavaScript](https://github.com/testdouble/unusual-spending), 
 
 If your favorite language is missing, feel free to create a pull request. Be sure the maintainer will be happy ;-)
 
-
 {% include default_image_credits.md %}
