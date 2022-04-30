@@ -23,6 +23,6 @@ The tests must not be red at any time. No compile-errors, no failures.
 {%
     include get_the_code.md 
     url='https://github.com/unclejamal/parallel-change' 
-    languages='C++, C#, Go, Java, Python, Ruby'
+    languages='C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Swift'
 %}
 
