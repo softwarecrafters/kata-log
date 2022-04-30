@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mob Programming"
+title:  "Ensemble Programming"
 image: default.jpg
 ---
 
