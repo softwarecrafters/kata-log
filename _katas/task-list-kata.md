@@ -64,7 +64,7 @@ should find yourself writing more unit tests as you proceed.
 {%
     include get_the_code.md 
     url='https://github.com/codurance/task-list' 
-    languages='C#, Java, Ruby, Scala, TypeScript'
+    languages='C#, Go, Java, Kotlin, Python, Ruby, Scala, TypeScript'
 %}
 
 
