@@ -25,3 +25,7 @@ image: baby_steps.jpg
 * Feel free to discuss whatever is needed in between cycles
 * The most important part is to have green tests. Your code base must
   never be red for more than two minutes
+
+## Image credits
+
+Image by [Egga](https://github.com/eggstrema). It shows an exemplary flip chart to facilitate the kata.
