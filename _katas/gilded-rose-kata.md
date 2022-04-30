@@ -64,9 +64,10 @@ is 80 and it never alters.
 {%
     include get_the_code.md 
     url='https://github.com/emilybache/GildedRose-Refactoring-Kata' 
-    languages='ABAP, C, C++, C#, Dart, Elixir, F#, Go, Groovy, Haskell,
-    Java, JavaScript, Kotlin, Perl, PHP, PLSQL, Python, Ruby, Rust, R,
-    Scala, Smalltalk, Swift'
+    languages='ABAP, C, C++, C#, COBOL, Dart, Delphi, Elixir, Elm, Erlang,
+    F#, Fortran, Go, Groovy, Haskell,  Java, JavaScript, Kotlin, Lisp,
+    Pascal, Perl, PHP, PLSQL, Python, Ruby, Rust, R, Scala, Scheme,
+    Smalltalk, Swift, TypeScript, VB.NET'
 %}
 
 ## Image credits
