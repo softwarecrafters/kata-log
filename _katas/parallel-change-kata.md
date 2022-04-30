@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parallel Change Kata"
-categories: [TDD, Refactoring, Starter, Agile]
+categories: [Refactoring, Starter, Agile]
 image: parallel_change.jpg
 ---
 
@@ -19,6 +19,7 @@ Tests have already been written.
 ## Rules
 
 The tests must not be red at any time. No compile-errors, no failures.
+(The only exception is for a few seconds while you write a single line of code.)
 
 {%
     include get_the_code.md 
