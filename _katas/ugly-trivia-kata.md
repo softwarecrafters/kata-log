@@ -35,9 +35,10 @@ the results.
 {%
     include get_the_code.md 
     url='https://github.com/jbrains/trivia' 
-    languages='C#, C++, C, COBOL, PowerShell, CoffeeScript, D, F#, Go,
-    Groovy, Java, JavaScript, Lua, Objective C, Perl, PHP, Python,
-    Ruby, Rust, Scala, ShellScript, Smalltalk, Swift, VB6'
+    languages='C#, C++, C, Clojure, COBOL, CoffeeScript, D, F#, Go,
+    Groovy, Java, JavaScript, Kotlin, Lua, Objective C, Perl, PHP,
+    PowerShell, Python, Racket, Ruby, Rust, Scala, ShellScript,
+    Smalltalk, Swift, TypeScript, VB6'
 %}
 
 ## Image credits
