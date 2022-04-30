@@ -9,11 +9,12 @@ image: default.jpg
 
 ## Tennis Kata
 
-There are three versions of this refactoring kata, each with their own design smells and challenges:
+There are four versions of this refactoring kata, each with their own design smells and challenges:
 
 * `TennisGame1`
 * `TennisGame2`
 * `TennisGame3`
+* `TennisGame4`
 
 {%
     include get_the_code.md
