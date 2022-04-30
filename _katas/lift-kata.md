@@ -4,6 +4,8 @@ title:  "The Lift Kata"
 categories: [TDD, Software-Design, Mocks]
 image: lift.jpg
 ---
+ 
+{% include credits.md name='Matt Florence' url='https://gist.github.com/mattflo/4669508' %}
 
 ## The Lift Kata
 
@@ -30,6 +32,5 @@ Here are some suggested lift features:
 ## Objects Only
 Can you write a lift that does not need to be queried? Try writing a lift that only sends messages to other objects.
 
-### Credits
-Image by Cat Robinson
-[Original Kata Source](https://gist.github.com/mattflo/4669508)
+### Image Credits
+Image by Cat Robinson. It shows an opening or closing lift door.
