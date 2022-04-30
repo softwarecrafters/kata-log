@@ -21,12 +21,11 @@ Here are some suggested lift features:
 * you may implement DING!
 * there can be more than one lift
 
-
+{% include starting_points.md %}
 
 ## Advanced Requirements
 * a lift does not respond immediately. consider options to simulate time, possibly a tick method.
 * lift calls are queued, and executed only as the lift passes a floor
-
 
 ## Objects Only
 Can you write a lift that does not need to be queried? Try writing a lift that only sends messages to other objects.

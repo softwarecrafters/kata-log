@@ -43,6 +43,7 @@ instructions Santa sent you in order.
 
 **After following the instructions, how many lights are lit?**
 
+{% include starting_points.md %}
 
 ## Part Two
 You just finish implementing your winning light pattern when you realize

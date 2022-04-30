@@ -28,6 +28,8 @@ Here is the price list for the available wardrobe elements:
 
 Write a second function that checks which of the resulting combinations is the cheapest one.
 
+{% include starting_points.md %}
+
 ## Image credits
 
 Image by [Rachel M. Carmena](https://github.com/rachelcarmena) for **Kata-Log**. It represents a greeting of respect and gratitude made at the beginning and at the end of a kata.
