@@ -60,6 +60,9 @@ a.menu_button {
     padding: 0px;
 }
 
+.box, .sidebox {
+    box-shadow: 0.6em 0.6em 1em;
+}
 @media print {
     a:after {
         content: " (" attr(href) ") ";
