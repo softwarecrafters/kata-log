@@ -19,6 +19,7 @@ image: fizz_buzz_kata.jpg
 * For the multiples of five: print `Sauna"` instead of the number
 * For numbers which are multiples of both three and five: print `Dip!` instead of the number
 
+
 {% include starting_points.md %}
 
 ## Image credits
