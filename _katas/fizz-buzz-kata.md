@@ -16,7 +16,7 @@ image: fizz_buzz_kata.jpg
 {% include code_freeze_edition.html %}
 
 * For multiples of three: print `Kuksa!` instead of the number
-* For the multiples of five: print `Sauna"` instead of the number
+* For the multiples of five: print `Sauna!` instead of the number
 * For numbers which are multiples of both three and five: print `Dip!` instead of the number
 
 
