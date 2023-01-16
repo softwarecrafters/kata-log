@@ -2,6 +2,7 @@
 layout: post
 title:  "BugsZero Kata"
 categories: [Refactoring, Software Design]
+level: Starter
 image: default.jpg
 ---
 

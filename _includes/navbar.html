@@ -1,0 +1,98 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
+           data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item" href="{{ site.github.url }}/index.html">
+                Home
+            </a>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a id="level-display" class="navbar-link">
+                    Level
+                </a>
+
+                <div class="navbar-dropdown">
+                    {% assign sorted_levels = site.levels | sort: 'order' %}
+                    {% for level in sorted_levels %}
+                    <a id="add-level-filter-{{ level.category_name }}" class="navbar-item">
+                        <i class="fa {{ level.icon }}"></i>
+                        {{ level.category_name }}
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% for level in site.levels %}
+            <div id="remove-level-filter-{{ level.category_name }}" class="navbar-item is-hidden">
+                <span class="tag is-success">
+                    {{ level.category_name }}
+                    <button class="delete is-small remove-level-filter-button"></button>
+                </span>
+            </div>
+            {% endfor %}
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a id="topic-display" class="navbar-link">
+                    Topics
+                </a>
+
+                <div class="navbar-dropdown">
+                    {% assign sorted_topics = site.topics | sort: 'category_name' %}
+                    {% for topic in sorted_topics %}
+                    <a id="add-topic-filter-{{ topic.category_name | remove: ' ' }}" class="navbar-item">
+                        <strong>{{ topic.category_name }}</strong>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% for topic in site.topics %}
+            <div id="remove-topic-filter-{{ topic.category_name | remove: ' ' }}" class="navbar-item is-hidden">
+            <span class="tag is-success">
+                {{ topic.category_name }}
+                <button class="delete is-small remove-topic-filter-button"></button>
+            </span>
+            </div>
+            {% endfor %}
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Constraints
+                </a>
+
+                <div class="navbar-dropdown">
+                    {% assign sorted_constraints = site.constraints | sort: 'title' %}
+                    {% for constraint in sorted_constraints %}
+
+
+                    <a class="navbar-item" href="{{ constraint.url | prepend: site.github.url }}">
+                        <strong>{{ constraint.title }}</strong>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="navbar-end">
+            <div class="navbar-item">
+                <div class="buttons">
+                    <a class="button is-primary" href="https://github.com/Egga/kata-log/blob/master/README.md">
+                        <strong>Add New Kata</strong>
+                    </a>
+                    <a class="button is-light" href="https://github.com/Egga/kata-log/issues">
+                        Contact
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>

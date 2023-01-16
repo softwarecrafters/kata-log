@@ -2,6 +2,7 @@
 layout: post
 title: Tell Don't Ask Kata
 categories: [Experienced, TDD, Pair-Programming, Tell Dont Ask, Refactoring]
+level: Experienced
 image: default.jpg
 ---
 

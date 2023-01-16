@@ -2,6 +2,7 @@
 layout: post
 title:  "Gilded Rose Kata"
 categories: [Refactoring, TDD, Starter, Agile, Pair-Programming]
+level: Starter
 image: default.jpg
 ---
 

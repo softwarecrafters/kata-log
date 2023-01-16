@@ -2,6 +2,7 @@
 layout: post
 title:  "Sing a Song Kata"
 categories: [Refactoring, Starter, Golden Master]
+level: Starter
 image: sing_a_song.jpg
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: String Calculator Kata
 categories: [Starter, TDD, Pair-Programming]
+level: Starter
 image: default.jpg
 ---
 

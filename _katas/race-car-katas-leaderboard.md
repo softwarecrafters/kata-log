@@ -2,6 +2,7 @@
 layout: post
 title:  "Race Car Katas - Leaderboard"
 categories: [SOLID Principles, Refactoring, Experienced]
+level: Experienced
 image: default.jpg
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: Ohce Kata
 categories: [Starter, Mocks, TDD, Pair-Programming]
+level: Starter
 image: default.jpg
 ---
 

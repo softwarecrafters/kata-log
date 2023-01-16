@@ -2,6 +2,7 @@
 layout: post
 title:  "Tic Tac Toe"
 categories: [TDD, Starter, Pair_programming, Pair-Programming]
+level: Starter
 image: default.jpg
 ---
 

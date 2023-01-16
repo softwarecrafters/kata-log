@@ -1,0 +1,18 @@
+---
+title: All Katas
+layout: katas
+---
+
+
+<div class="columns is-multiline is-centered">
+
+    {% assign sorted_katas = site.katas | sort: 'title' %}
+
+    {% for post in sorted_katas %}
+
+    {% include new_post_preview.html post=post %}
+
+    {% endfor %}
+
+</div>
+

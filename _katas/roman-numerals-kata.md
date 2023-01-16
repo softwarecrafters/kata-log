@@ -2,6 +2,7 @@
 layout: post
 title:  "Roman Numerals Kata"
 categories: [TDD, Starter, Pair-Programming]
+level: Starter
 image: roman_numerals.jpg
 ---
 

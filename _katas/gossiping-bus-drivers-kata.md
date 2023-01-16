@@ -2,6 +2,7 @@
 layout: post
 title:  "Gossiping Bus Drivers Kata"
 categories: [Software-Design, TDD, Experienced, Outside-In, SOLID Principles]
+level: Experienced
 image: default.jpg
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Ugly Trivia Game Kata"
 categories: [Refactoring, Golden Master, Experienced, Mocks, Pair-Programming, SOLID Principles, Software-Design]
+level: Experienced
 image: default.jpg
 ---
 

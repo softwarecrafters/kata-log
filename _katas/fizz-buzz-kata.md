@@ -2,6 +2,7 @@
 layout: post
 title:  "Fizz Buzz Kata"
 categories: [Starter, TDD, Pair-Programming]
+level: Starter
 image: fizz_buzz_kata.jpg
 ---
 
@@ -13,7 +14,7 @@ image: fizz_buzz_kata.jpg
 * For numbers which are multiples of both three and five print `FizzBuzz`
   instead of the number
 
-<div class="notification is-primary is-medium">
+<div class="notification is-info is-medium">
 
     <h1 class="title">
         🥶 Code Freeze Edition 🥶

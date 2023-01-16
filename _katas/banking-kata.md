@@ -2,6 +2,7 @@
 layout: post
 title:  "Banking Kata"
 categories: [Mocks, Outside-In, Software-Design, SOLID Principles, Experienced]
+level: Experienced
 image: banking_kata.jpg
 ---
 

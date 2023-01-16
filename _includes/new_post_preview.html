@@ -1,0 +1,45 @@
+<div class="column
+is-three-quarters-mobile
+is-two-thirds-tablet
+is-half-desktop
+is-one-third-widescreen
+is-one-quarter-fullhd
+kata
+level-{{ post.level }}
+
+
+{% for category in post.categories %}
+topic-{{ category | remove: " " }}
+{% endfor %}
+">
+
+    <div class="card has-background-primary-dark">
+
+        <header class="card-header">
+            <p class="card-header-title">
+                <a class="subtitle has-text-primary-light" href="{{ include.post.url | prepend: site.github.url }}">
+                    {{ post.title }}
+                </a>
+            </p>
+        </header>
+
+        <div class="content">
+            <div class="tags is-centered">
+                {% for category in post.categories %}
+                <span class="tag is-primary is-light">
+
+                    <a class="has-text-primary-dark" href="{{ site.github.url }}/{{ category | slugify }}.html">
+                        <span class="icon">
+                            <i class="fas fa-tag"></i>
+                        </span>
+                        {{ category }}
+                    </a>
+                 </span>
+
+
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+</div>

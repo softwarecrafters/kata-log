@@ -2,6 +2,7 @@
 layout: post
 title: Unusual Spending Kata
 categories: [Experienced, Mocks, TDD, Pair-Programming]
+level: Experienced
 image: default.jpg
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Social Network Kata"
 categories: [TDD, BDD, Software-Design, Starter]
+level: Starter
 image: default.jpg
 ---
 

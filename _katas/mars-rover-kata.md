@@ -2,6 +2,7 @@
 layout: post
 title:  "Mars Rover Kata"
 categories: [TDD, Software-Design, Experienced, Outside-In, Pair-Programming, SOLID Principles]
+level: Experienced
 image: mars_rover.jpg
 ---
 

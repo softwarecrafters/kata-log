@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Lift Kata"
-categories: [TDD, Software-Design, Mocks]
+categories: [TDD, Software-Design, Mocks, Starter]
+level: Starter
 image: lift.jpg
 ---
  

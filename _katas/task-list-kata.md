@@ -2,6 +2,7 @@
 layout: post
 title:  "Task List Kata"
 categories: [TDD, Software-Design, Refactoring, SOLID Principles, Starter]
+level: Starter
 image: default.jpg
 ---
 

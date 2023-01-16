@@ -2,6 +2,7 @@
 layout: post
 title:  "Configure your own Wardrobe"
 categories: [TDD, Software-Design, Starter]
+level: Starter
 image: default.jpg
 ---
 

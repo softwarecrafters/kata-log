@@ -2,6 +2,7 @@
 layout: post
 title:  "Parallel Change Kata"
 categories: [Refactoring, Starter, Agile]
+level: Starter
 image: parallel_change.jpg
 ---
 

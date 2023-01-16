@@ -2,6 +2,7 @@
 layout: post
 title:  "Manhattan Distance Kata"
 categories: [Software-Design, TDD, Starter, Pair-Programming, SOLID Principles]
+level: Starter
 image: manhattan_distance.jpg
 ---
 

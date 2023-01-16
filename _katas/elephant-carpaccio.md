@@ -2,6 +2,7 @@
 layout: post
 title:  "Elephant Carpaccio"
 categories: [Agile, TDD, Starter, Outside-In]
+level: Starter
 image: default.jpg
 ---
 

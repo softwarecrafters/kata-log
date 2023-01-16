@@ -2,6 +2,7 @@
 layout: post
 title:  "Clock-in Kata"
 categories: [TDD, Asynchronous, Promises]
+level: Starter
 image: clock_in_kata_cases.png
 ---
 
