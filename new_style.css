@@ -15,6 +15,10 @@ body {
     margin-bottom: 1em;
 }
 
+.has-border {
+    border-style: dashed;
+    border-width: 2px;
+}
 
 @media print {
     a:after {
