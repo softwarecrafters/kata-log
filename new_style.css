@@ -18,6 +18,7 @@ body {
 .has-border {
     border-style: dashed;
     border-width: 2px;
+    border-color: hsl(171, 100%, 29%);
 }
 
 @media print {
