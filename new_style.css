@@ -8,6 +8,10 @@ body {
     text-align: center;
 }
 
+.logo > a {
+    color: hsl(171, 100%, 29%);
+}
+
 
 .flip_chart {
     max-width: 300px;
